@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <meta charset="utf-8" />
+</head>
+<body>
+<!--<select>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+</select>-->
+    <input type="checkbox" id="test" abc="111" />
+    <script src="CommonJs/jquery-3.2.1.min.js"></script>
+    <script>
+        // $("select").attr("selected", "selected");
+        //1.0 for in遍历json
+        //var person = {
+        //    age: 20,
+        //    name: '小黑',
+        //    sex: '男'
+        //}
+        //for (var attr in person) {
+        //    console.log(attr);
+        //    console.log(person[attr]);
+        //}
+        //1.1 for in 也可以遍历数组
+        //var arr = [8, 2, 4, 6];
+        //for (var index in arr) {
+        //    console.log(index);
+        //    console.log(arr[index]);
+        //}
+        //1.2 json.parse()对象化 json.stringify()对象字符化
+
+        //prop和attr
+        $(function () {
+            //el = $("#test");
+            //console.log(el.attr("style")); //undefined
+            //console.log(el.prop("style")); //CSSStyleDeclaration对象
+            //console.log(document.getElementById("test").style); //CSSStyleDeclaration对象
+
+            //el.attr("abcd", "111");
+            //console.log(el.attr("abcd")); //111
+            //console.log(el.prop("abcd")); //undefined
+
+            //el.prop("abc", "222");
+            //console.log(el.attr("abc")); //111
+            //console.log(el.prop("abc")); //222
+            //什么时候使用attr()，什么时候使用prop()？
+            //1.添加属性名称该属性就会生效应该使用prop();
+            //2.是有true,false两个属性使用prop();
+            //3.其他则使用attr();项目中jquery升级的时候大家要注意这点！
+        });
+    </script>
+</body>
+
+</html>

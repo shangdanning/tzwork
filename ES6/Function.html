@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <script type="text/javascript">
+        //以下代码在符合es6的浏览器里会报错 Uncaught TypeError: f is not a function
+
+        //function f() { console.log('I am outside!'); }
+
+        //(function () {
+        //    if (false) {
+        //        // 重复声明一次函数f
+        //        function f() { console.log('I am inside!'); }
+        //    }
+
+        //    f();
+        //}());
+
+        //考虑到环境导致的行为差异太大,应该避免在块级作用域内声明函数.如果确实需要,也应该写成函数表达式,而不是函数声明语句
+        //函数声明语句
+
+        //{
+        //   // console.log(a);// Uncaught ReferenceError: a is not defined
+        //    let a = "secret";
+        //    function f() {
+        //        return a;
+        //    }
+        //    console.log(f());
+        //}
+        ////函数表达式
+        //{
+        //    let a = "secret";
+        //    let f = function () {
+        //        return a;
+        //    };
+        //    console.log(f());
+        //}
+
+
+        //const声明一个只读的常量。一旦声明，常量的值就不能改变。
+        //const命令声明的常量也是不提升，同样存在暂时性死区，只能在声明的位置后面使用。
+
+        //if (true) {
+        //    console.log(max);
+        //    const max = 5;
+        //}
+        //console.log(max); // Uncaught ReferenceError: max is not defined
+
+
+        var message = "Hello!";
+        let message = 25;//Uncaught SyntaxError: Identifier 'message' has already been declared
+
+    </script>
+</body>
+</html>

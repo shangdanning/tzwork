@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <title>前面兄弟元素</title>
+    <meta charset="utf-8" />
+    <style type="text/css">
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        ul {
+            position: relative;
+        }
+
+        li {
+            line-height: 4;
+            background-color: lightblue;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="wrap" class=''>
+        <ul>
+            <li class="item1"> 1content</li>
+            <li class="item2"> 2content</li>
+            <li class="item3"> 3content</li>
+            <li class="item4"> 4content</li>
+            <li class="item5"> 5content</li>
+            <li class="item6"> 6content</li>
+            <li class="item7"> 7content</li>
+            <li class="item8"> 8content</li>
+        </ul>
+    </div>
+    <ul>
+        <li class="item1"> 嘻嘻</li>
+        <li class="item2"> 哈哈</li>
+
+    </ul>
+    <script src="../CommonJs/jquery-3.2.1.min.js"></script>
+    <script>
+        //prevUntil()前面兄弟元素
+        //slice(start,end)截取start至end,不包含end
+        //外包装$(target).wrap(content);把target用content包装起来
+        //内包装$(target).wrapInner(content);把target的内容用content包装起来
+        //整体包装 $(target).wrapAll(content);
+        //解除包装 $(target).unwrap(content); 删除target的parent
+        var $item4 = $(".item4");
+        //  $item4.prevUntil(".item1").css({ backgroundColor:'red' });
+        //$("li").slice(-5, -2).css({backgroundColor:"pink"});
+        //$("#wrap li").wrap("<a href='#' target='_blank'></a>");
+        //$("#wrap li").wrapInner("<a href='#' target='_blank'></a>");
+        //$("ul").wrapAll("<a href='#'></a>");
+        $("li").unwrap();
+       </script>
+</body>
+</html>

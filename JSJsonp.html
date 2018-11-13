@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <title>jsonp跨域</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <div id="emswrap">
+        <button> 查询</button>
+    </div>
+    <script type="text/javascript">
+        var oBut = document.getElementsByTagName("button")[0];
+        oBut.onclick = function () {
+            var script = document.createElement("script");
+            //申通
+            script.src = "https://sp0.baidu.com/9_Q4sjW91Qh3otqbppnN2DJv/pae/channel/data/asyncqury?cb=success_fn&appid=4001&com=shentong&nu=3355467621425&vcode=&token=&_=1521469712723";
+                        //https://sp0.baidu.com/9_Q4sjW91Qh3otqbppnN2DJv/pae/channel/data/asyncqury?cb=jQuery110209718864715735507_1522029564051&appid=4001&com=shentong&nu=3355467621425&vcode=&token=&_=1522029564053
+            script.onload = function () {
+                document.body.removeChild(script);
+            }
+            document.body.appendChild(script);
+        }
+        function success_fn(response) {
+            console.log(response);
+        }
+    </script>
+</body>
+</html>

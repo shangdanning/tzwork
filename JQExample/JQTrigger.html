@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <title>触发浏览器行为</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    第一个:<input type="checkbox" />
+    第二个:<input type="checkbox" />
+    第三个:<input type="checkbox" />
+    <input type="button" value="按钮" id="bnt" onclick="bntClick()" />
+<script src="../CommonJs/jquery-3.2.1.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("input[type='checkbox']").click(function () {
+            alert("come");
+            return 10;
+        });
+      
+    });
+    function bntClick() {
+        var s = $("input[type='checkbox']").trigger("click");//会触发浏览器默认行为
+       //var s= $("input[type='checkbox']").triggerHandler("click");//不会触发浏览器默认行为
+    }
+</script>
+</body>
+</html>

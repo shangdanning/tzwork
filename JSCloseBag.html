@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <title>JS闭包</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <script>
+        var getNum;
+        function getCounter() {
+            var n = 1;
+            var inner = function () { return n++; }
+            return inner;
+        }
+
+        getNum = getCounter();
+        console.log(getNum()); //1
+        console.log(getNum()); //2
+
+        //var getNum;
+        //function getCounter() {
+        //    var n = 1;
+        //    var inner = function num(a) { return n+a; }
+        //    return inner;
+        //}
+
+        //getNum = getCounter();
+        //console.log(getNum(4)); //1
+        //console.log(getNum(5)); //2
+
+        //模拟私有变量
+        //function counter(start) {
+        //    var count = start;
+        //    return {
+        //        increment:function() {
+        //            count++;
+        //        },
+        //        get:function() {
+        //            return count;
+        //        }
+        //    }
+        //}
+
+        //var foo = counter(4);
+        //foo.increment();
+        //console.log(foo.get());
+
+        //counter(4).increment();
+        //console.log(counter(4).get());
+
+
+        //for (var i = 0; i < 10; i++) {
+        //    var a = 1;
+        //    setInterval(function() {
+
+        //            console.log(a++);
+
+        //    }, 1000);
+        //}
+
+
+        //var undefined = 123;
+        //console.log(undefined);
+        //(function (something, foo, undefined) {
+        //    // 局部作用域里的 undefined 变量重新获得了 `undefined` 值
+        //    console.log(something,undefined);
+        //})('Hello World', 42);
+
+
+        //var a;
+        //if (typeof (a) == "undefined") {
+        //    console.log("undefined");
+        //}
+        //if (!a) {
+        //    console.log("undefined");
+        //}
+    </script>
+</body>
+</html>

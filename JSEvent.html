@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <title></title>
+    <meta charset="utf-8" />
+    <script src="CommonJs/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript">
+        //click  先执行onclick事件,再执行click方法中的补充内容
+        //先弹出bb,再弹出aa
+        $(function () {
+            $("#btn3").click(function () {
+                console.log("aa");
+            });
+        });
+        function change() {
+            console.log("bb");
+        }
+        //btnSecond.click(这种绑定方法不可行
+        //$(function () {
+        //    var btnSecond = document.querySelector("#btnSecond");
+        //    btnSecond.click(function () {
+        //        console.log("bb");
+        //    });
+        //});
+
+        //function btnSecondClick() {
+        //    console.log("aa");
+        //}
+    </script>
+</head>
+<body>
+
+    <button id="btn3" onclick="change()">dd</button>
+    <input id="btnClick1" type="button" value="点击1" />
+    <input id="btnClick" type="button" value="点击1" />
+    <button id="btnSecond" onclick="btnSecondClick()">点击2</button>
+
+    <script>
+        //事件Event对象
+        //document.onclick=function(ev) {
+        //    var ev1 = ev || window.event;
+        //    console.log(ev1);
+        //}
+        //document.onclick = getEvent;
+        //function getEvent(ev) {
+        //    var ev1 = ev || window.event;
+        //    console.log(ev1);
+        //}
+
+        //拖拽事件
+        //window.onmouseup = function(ev) {
+        //    var ev1 = ev || window.event;
+        //    console.log(ev1.clientX + "--" + ev1.clientY);
+        //}
+
+        //手动触发点击事件
+        //var btnClick = document.querySelector("#btnClick");
+        //document.onclick = function () {
+        //    btnClick.onclick();
+        //}
+
+        //btnClick.onclick = function () {
+        //    console.log("123");
+        //}
+
+        document.onclick = function () {
+            var btnClick = document.getElementById("btnClick");
+            console.log(btnClick.previousSibling);
+            // document.querySelector("#" + btnClick.previousSibling.id).click();
+        }
+
+
+    </script>
+</body>
+</html>

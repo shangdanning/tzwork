@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <title>JSProto</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+<script>
+    //每个对象都有一个__proto__,可以实现对象的继承
+    //实例对象的__proto__ 默认指向constructor.prototype
+    //var obj = {
+    //    name: "二狗",
+    //    age:20
+    //};
+    //var obj2= {
+    //    sex: "男",
+    //    __proto__:obj
+    //}
+    //console.log(obj2.name);//二狗
+    //console.log(obj2.constructor);//object
+    function Parent(name) {
+        this.name = name;
+    }
+    function Children(name,age) {
+        this.__proto__ = new Parent(name);
+        this.age = age;
+    }
+
+    
+    var C2 = new Children("二狗", 20);
+    C2.__proto__ = { index: 111 };
+   console.log(C2);
+</script>
+</body>
+</html>

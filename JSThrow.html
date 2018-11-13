@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <script type="text/javascript">
+        animation("box");
+        function animation(json) {
+            //if (typeof json !== "object") {
+            //    throw ("不是对象呀");
+            //  throw new ReferenceError("引用错误~");
+            //}
+            try {
+                allert(123);
+            } catch (e) {
+                console.log(e.message);
+            } finally {
+                console.log("finally~");
+            }
+            console.log("finally之后~");
+            //catch会阻止报错,不会影响后续代码的执行
+            //只要有catch,就不会影响后续代码,否则 :比如只有try+finally也会报错,影响后续代码的执行
+        }
+    </script>
+</body>
+</html>

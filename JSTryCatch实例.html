@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <script type="text/javascript">
+        var xhr;
+        if (window.XMLHttpRequest) {
+            xhr =new  XMLHttpRequest();
+        } else {
+            try {
+                xhr = new ActiveXObject("Msxml.XMLHTTP.6.0");
+            }catch(e) {
+                xhr = new ActiveXObject("Msxml.XMLHTTP.3.0");
+            }
+        }
+        console.log(xhr);
+    </script>
+</body>
+</html>

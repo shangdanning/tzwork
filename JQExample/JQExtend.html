@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <div id="box"></div>
+    <script src="../CommonJs/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript">
+        $(document).click(function () {
+
+            //三 $.extend([deep],target,obj1,obj2)继承
+
+            //var target = {};
+            //var option1 = { age: 20, show: function() {
+            //    alert("123");
+            //},array:[0] };
+            //var option2 = { name: '二狗' };
+            //var set = $.extend(true,target, option1, option2);
+            //set.age = 30;
+            //set.array = [1];
+            //console.log(option1, target, set);
+            //console.log(option1.age, target.age, set.age);
+            //console.log(option1.array, target.array, set.array);
+
+            //四 $.extend(obj) 给$构造函数添加工具函数
+            //extend 中只能有一个参数的时候是这样
+
+            //var obj = {
+            //    age: 25,
+            //    show: function () {
+            //        console.log("123");
+            //    }
+            //};
+            //$.extend(obj);
+            //console.log($.show);
+            //console.log( $.age);
+
+            //五 $.fn.extend(obj) 给jQuery对象拓展方法
+            var obj = {
+                age: 25,
+                show: function () {
+                    console.log("123");
+                }
+            };
+            $.fn.extend(obj);
+            $("#box").show();
+            console.log($("#box").age);
+
+        });
+    </script>
+</body>
+</html>

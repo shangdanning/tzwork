@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <title>JS作用域</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <script>
+        //全局(script)域
+
+        //var a = 123;
+        //console.log(window.a);
+        //function abc() {
+        //    console.log("123");
+        //}
+        //console.log(window.abc);
+
+        //局部(function)域
+
+        //var num = 10;
+        //function fn() {
+        //    var num = 20;
+        //    console.log(num);//20
+        //}
+        //fn();
+
+        //javascript解析
+
+        //(function func() {
+        //    console.log(a);
+        //    var a = 123;
+        //    console.log(a);
+        //    a = b;
+
+        //    function b() {
+        //        console.log("a1");
+        //    }
+
+        //    console.log(a);
+
+        //    function a() {
+        //        console.log("a2");
+        //    }
+
+        //    console.log(a);
+        //    // a();
+        //    console.log(a);
+        //})();
+
+        //作用域案例
+
+        //var x = 5;
+        //(function a() {
+        //    console.log(x);//undefined
+        //    var x = 10;
+        //})();
+        //console.log(x);//5
+
+        //(function func() {
+        //    console.log(fn);
+        //    var fn=function() {
+        //        console.log("aaa");
+        //    }
+        //})();
+
+        //console.log(fn);
+        //var fn = function () {
+        //    console.log("aaa");
+        //}
+
+        console.log(a);//function a(){ console.log(a);}
+        var a = 10;
+        console.log(a);//10
+        function a() {
+            console.log(20);
+        }
+        console.log(a);//10
+        var a = 30;
+        console.log(a);//30
+        var a = function a() {
+            var a = 20;
+            console.log(a);
+        }
+
+        console.log(a);//function a(){var a = 20; console.log(a);}
+        a();//20
+        console.log(a);//function a(){var a = 20; console.log(a);}
+    </script>
+</body>
+</html>

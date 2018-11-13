@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <script type="text/javascript">
+        //访问属性
+        //有两种方式来访问对象的属性，点操作符或者中括号操作符。
+
+        //var foo = {name: 'kitten'}
+        //console.log(foo.name); // kitten
+        //console.log(foo['name']); // kitten
+
+        //var get = 'name';
+        //console.log(foo[get]); // kitten
+        //foo['1234'] = "123";
+        ////console.log(foo.1234); // SyntaxError
+        //console.log(foo['1234']); // undefined
+
+
+        var obj = {
+            bar: 1,
+            foo: 2,
+            baz: 3
+        };
+        obj.bar = undefined;
+        obj.foo = null;
+        delete obj.baz;
+
+        for (var i in obj) {
+            if (obj.hasOwnProperty(i)) {
+                console.log(i, '' + obj[i]);
+            }
+        }
+    </script>
+</body>
+</html>

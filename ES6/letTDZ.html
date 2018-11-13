@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>暂时性死区</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <script type="text/javascript">
+        if (true) {
+            // TDZ暂时性死区 temporal dead zone
+            // ES6明确规定，如果区块中存在let和const命令，这个区块对这些命令声明的变量，
+            // 从一开始就形成了封闭作用域。凡是在声明之前就使用这些变量，就会报错。
+
+            // TDZ开始 
+            //tmp = 'abc'; // ReferenceError
+            //console.log(tmp); // ReferenceError
+
+            //let tmp; // TDZ结束
+            //console.log(tmp); // undefined
+
+            //tmp = 123;
+            //console.log(tmp); // 123
+
+            ////若eeee没有声明,反而不会报错
+            //console.log(typeof eeee);//undefined
+
+            //var a = 1;
+            //var a = 2;
+            //let a = 3;
+            //console.log(a);
+
+            func(3);
+        }
+        function func(m) {
+            console.log(m);
+            var m = new Date();
+            { let m;
+                console.log(m);
+            }
+            console.log(m);
+        }
+
+
+
+        //var tmp = new Date();
+
+        //function f() {
+        //    console.log(tmp);
+        //    if (true) {
+        //         tmp = "hello world";
+        //    }
+        //    console.log(tmp);
+        //}
+
+        //f(); 
+
+        //console.log(tmp);
+    </script>
+</body>
+</html>

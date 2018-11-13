@@ -1,0 +1,1455 @@
+
+        <!DOCTYPE html>
+<html>
+<head>
+    <script type="text/javascript">window._PFM_TIMING=[[657,new Date()]];</script>
+    <title>
+        		多快好省，购物上京东！
+		    </title>
+    <meta name="author" content="m.jd.com">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0,user-scalable=no,minimal-ui">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="author" content="m.jd.com">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
+    <meta http-equiv="Expires" content="-1">
+    <meta http-equiv="Cache-Control" content="no-cache">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta name="full-screen" content="yes">
+    <meta name="browsermode" content="application">
+    <meta name="x5-fullscreen" content="true">
+    <meta name="x5-page-mode" content="app">
+            <meta name="description" content="京东JD.COM-专业的综合网上购物商城,在线销售家电、数码、电脑、服装、母婴、图书、食品等数万个品牌商品.便捷、诚信的服务,为您提供愉悦的网上商城购物体验! " />
+                <meta name="Keywords" content="网上购物,手机,笔记本,电脑,MP3,CD,VCD,DV,相机,数码,配件,手表,存储卡,京东商城" />
+        <script type="text/javascript">
+        var rTimeArr = [];
+        rTimeArr[0] = {time : new Date(), sTime : "0"};
+        document.addEventListener("DOMContentLoaded",function(){
+            rTimeArr[1] = {time : new Date() , sTime : "0"};
+            window._PFM_TIMING[2]=new Date();
+        });
+        rTimeArr[2] = {sTime : "0"};
+    </script>
+    <link rel="apple-touch-icon-precomposed" href="//st.360buyimg.com/m/images/apple-touch-icon.png?v=jd201712220019"/>
+    <link rel="stylesheet" type="text/css" href="//st.360buyimg.com/m/css/2014/layout/layout2015.css?v=jd201712220019" charset="uft-8"/>
+                                        <link rel="stylesheet" type="text/css" href="//st.360buyimg.com/m/css/2014/index/index661.css?v=jd201712220019" charset="uft-8"/>
+                                                <script>
+        rTimeArr[2]["time"] = new Date();
+        window._PFM_TIMING[1]=new Date();
+    </script>
+</head>
+<script>
+    rTimeArr[10] ={sTime:new Date()};
+</script>
+<body>
+
+<header class=" topheader " id="topheader" ></header>
+<div id='m_common_header'></div>
+<div id="scwrapper" class="scroll-wrapper">
+    <script>
+        rTimeArr[3] ={sTime:new Date()};
+    </script>
+
+    <script src="//wl.jd.com/unify.min.js" type="text/javascript"></script>
+
+        
+
+
+
+
+<script type="text/javascript">
+
+        var global_new_switch = {
+        mDiscoverToast:  "false"
+    };
+        var global_discover_toast_url =  "https://wq.360buyimg.com/data/ppms/js/ppms.pagev33062.jsonp"
+
+        var global_cnd_static_url = "//st.360buyimg.com/m"
+    var global_cnd_static_version = "jd201712220019"
+
+
+        var global_time_first_access = new Date().getTime();
+
+        var global_searchbar_ciphertext = '1';
+
+        var global_jsswitch_obj = JSON.parse('{"indexShowCartnum":false,"indexSlide":true,"openbannertime":1,"hisSearchExpiresTime":1,"indexOptimizeImg":true,"appShield":false,"closebannertime":0,"indexShowSearch":false,"recommendExpiresTime":3,"recommend":{"open":true,"useCached":false},"bannerCarouselTime":4,"autoappcall":true,"curtainsVersion":0,"globalabtest":1,"stopTouchTime":1500,"indexScreenlog":true,"indexBfloor":true,"indexbotRecommend":false,"autoSeckill":true,"indexShowActiveDraw":true,"wait4PayShow":true,"indexDNS":"https://m.jd.com","recommendShowTime":8000}') ;
+    var global_index_dns = global_jsswitch_obj.indexDNS;
+
+        var global_curtains_version = global_jsswitch_obj.curtainsVersion;
+
+
+</script>
+
+
+
+
+
+
+
+
+
+            <div class="floor bottom-bar-pannel" id="bottom-bar-pannel">
+        <div class="floor-container  ">
+            <ul class="tab5">
+                                                                                                                            <li id="bar-recommend-close" ><span class="bar-img" ><img src="https://m.360buyimg.com/mobilecms/jfs/t3934/168/1102026163/2214/8cf2a437/5869c6b2Nc370cd1c.png"/></span></li>
+                                                    
+                                                                                 <li><span class="bar-img"><a class="J_ping" report-eventlevel="1" report-eventid="MHome_BBottomTab"  report-eventparam="category" page_name="index" href="https://so.m.jd.com/category/all.html"><img func="category" src="https://m.360buyimg.com/mobilecms/jfs/t3238/349/5252616655/2583/18b62a6/5869c6cdN0a668c5c.png"></a></span></li>
+                                                                                 <li><span class="bar-img"></span></li>
+                                                                                 <li><span class="bar-img"><a class="J_ping" report-eventlevel="1" report-eventid="MHome_BBottomTab"  report-eventparam="cart" page_name="index" href="https://p.m.jd.com/cart/cart.action"><img func="cart" src="https://m.360buyimg.com/mobilecms/jfs/t3184/301/5286190398/2598/e88e138f/5869c70fN3d838de1.png"></a></span></li>
+                                                                                 <li><span class="bar-img"><a id='myHome'  data-param="home" page_name="index" data-href="https://home.m.jd.com/myJd/home.action"><img func="home" src="https://m.360buyimg.com/mobilecms/jfs/t3865/194/1070610938/2893/478eab7/5869c721N8ddf4ab4.png"></a></span></li>
+                                                </ul>
+        </div>
+    </div>
+                <div class="floor bottom-bar-activity"><span class="bar-img">
+			 <a class="J_ping" report-eventlevel="1" report-eventid="MHome_BBottomTab"  report-eventparam="find" page_name="index" href="https://pro.m.jd.com/mall/active/2DPFGD9woSBpEDXq9UqCED6n5kRQ/index.html"><img src="https://m.360buyimg.com/mobilecms/jfs/t15742/101/767268174/15801/f6072e65/5a3cd9a8Naf458391.png"></a>
+			</span></div>
+            
+<div class="viewport-new" id="newviewport">
+    <header id='search-bar'  class='search-bar-hidden ' style='height:44px;'></header>
+
+                                                              <div id="slider"  class="floor slider-wrapper" >
+                                            <div id="search-box-new" class="search-box-new"  style="display: none;">
+                            <div class="search-info">
+                                <div id="his-list" class="search-items"></div>
+                            </div>
+                        </div>
+                                            <div class='slider-bg'></div>
+                        <ul  id="slider_touch" class="new-slide"  data-slide-ul="firstUl" >
+                            <li  data-ul-child="child" class="slide-li"><a  class="J_ping" report-eventlevel="1" report-eventid="MHome_BFocusPic" report-eventparam="C_5_0_90281_" page_name="index" href='https://pro.m.jd.com/mall/active/mPmu1FKkK8TYzPsJrB6eNzgst4y/index.html'><img  alt=""    src="https://m.360buyimg.com/mobilecms/s1125x549_jfs/t15769/234/592356785/192742/56a05122/5a376289N4e74f201.jpg!q70.jpg" /></a></li>
+                        </ul>
+                        <div class="focus-btn"  data-small-btn="smallbtn"></div>
+                    </div>
+                                                                  <div id="appcenter" class="floor box-enter">
+                    <div class="floor-item">
+                        <div class="position-r">
+                            <div class="container-bg quick-nav-box">                                                              </div>
+                            <nav class="quick-entry-nav position-ab     quick-nav-five ">
+                                                                                                                                                                                                                                                                        <a class="quick-entry-link fz12 J_ping" report-eventlevel="1" report-eventid="MHome_BIcons"  report-eventparam="京东超市" page_name="index" href="https://pro.m.jd.com/mall/active/2hqsQcyM5bEUVSStkN3BwrBHqVLd/index.html"><span class="quick-box"><img width="45" height="45" src="https://m.360buyimg.com/mobilecms/jfs/t5668/159/160398199/14046/acfe1fa3/591d9424N068a7ad0.png"><span >京东超市</span></span></a>
+                                                                            
+                                                                                                                                                                                                                                                                                                             <a class="quick-entry-link fz12 J_ping" report-eventlevel="1" report-eventid="MHome_BIcons"  report-eventparam="全球购" page_name="index" href="https://pro.m.jd.com/mall/active/3YvKJrc4e4WK7aZ46j3h5UMCvEn4/index.html"><span class="quick-box"><img width="45" height="45" src="https://m.360buyimg.com/mobilecms/jfs/t11425/73/2288282326/13451/e11c7697/5a14d167Ne5414496.png"><span >全球购</span></span></a>
+                                                                            
+                                                                                                                                                                                                                                                                                                             <a class="quick-entry-link fz12 J_ping" report-eventlevel="1" report-eventid="MHome_BIcons"  report-eventparam="京东服饰" page_name="index" href="https://pro.m.jd.com/mall/active/3GTca2WsjgRdohGtJCUnWB3bDs8o/index.html"><span class="quick-box"><img width="45" height="45" src="https://m.360buyimg.com/mobilecms/jfs/t5656/351/153181074/12227/e35aa8d/591d9456Naa85e195.png"><span >京东服饰</span></span></a>
+                                                                            
+                                                                                                                                                                                                                                                                                                             <a class="quick-entry-link fz12 J_ping" report-eventlevel="1" report-eventid="MHome_BIcons"  report-eventparam="京东生鲜" page_name="index" href="https://pro.m.jd.com/mall/active/4P9a2T9osR9JvtzHVaYTPvsecRtg/index.html"><span class="quick-box"><img width="45" height="45" src="https://m.360buyimg.com/mobilecms/jfs/t5707/83/1407890143/14681/29321e2c/59263c71Nc7d16503.png"><span >京东生鲜</span></span></a>
+                                                                            
+                                                                                                                                                                                                                                                                                                             <a class="quick-entry-link fz12 J_ping" report-eventlevel="1" report-eventid="MHome_BIcons"  report-eventparam="京东到家" page_name="index" href="https://daojia.jd.com/html/index.html?channel=jdapp"><span class="quick-box"><img width="45" height="45" src="https://m.360buyimg.com/mobilecms/jfs/t5773/256/159664156/17475/742fec7e/591d9475Na810c2eb.png"><span >京东到家</span></span></a>
+                                                                            
+                                                                                                                                                                                                                                                                                                             <a class="quick-entry-link fz12 J_ping" report-eventlevel="1" report-eventid="MHome_BIcons"  report-eventparam="充值缴费" page_name="index" href="https://newcz.m.jd.com/"><span class="quick-box"><img width="45" height="45" src="https://m.360buyimg.com/mobilecms/jfs/t5647/156/156583179/12255/981e942a/591d94a1Nfde63a47.png"><span >充值缴费</span></span></a>
+                                                                            
+                                                                                                                                                                                                                                                                                                                                                    <a class="quick-entry-link fz12 J_ping"   report-eventlevel="1" report-eventid="MHome_BIcons" report-eventparam="领京豆_B" page_name="index" href="https://ld.m.jd.com/userBeanHomePage/index.action"><span class="quick-box"><img width="45" height="45" src="https://m.360buyimg.com/mobilecms/s126x126_jfs/t2758/175/4146829331/10078/d6a3aa98/57aacab9N98edf989.png"><span >领京豆</span></span></a>
+                                                                            
+                                                                                                                                                                                                                                                                                                             <a class="quick-entry-link fz12 J_ping" report-eventlevel="1" report-eventid="MHome_BIcons"  report-eventparam="领券" page_name="index" href="https://coupon.m.jd.com/center/getCouponCenter.action"><span class="quick-box"><img width="45" height="45" src="https://m.360buyimg.com/mobilecms/jfs/t5872/340/146804759/11154/f4ae1409/591d94c4N79a488cc.png"><span >领券</span></span></a>
+                                                                            
+                                                                                                                                                                                                                                                                                                             <a class="quick-entry-link fz12 J_ping" report-eventlevel="1" report-eventid="MHome_BIcons"  report-eventparam="赚钱" page_name="index" href="https://m.jr.jd.com/spe/qyy/hzq/index.html?usertype=1176"><span class="quick-box"><img width="45" height="45" src="https://m.360buyimg.com/mobilecms/jfs/t5824/248/156712927/7215/1ad6be5f/591d94c6Nc4711ad2.png"><span >赚钱</span></span></a>
+                                                                            
+                                                                                                                                                                                                                                                                                                             <a class="quick-entry-link fz12 J_ping" report-eventlevel="1" report-eventid="MHome_BIcons"  report-eventparam="物流查询" page_name="index" href="https://home.m.jd.com/user/userAllOrderList.action"><span class="quick-box"><img width="45" height="45" src="https://m.360buyimg.com/mobilecms/jfs/t5842/205/151189300/13247/a6de2d/591d94edNc42fb94d.png"><span >物流查询</span></span></a>
+                                                                            
+                                                                                                 </nav>
+                        </div>
+                    </div>
+                </div>
+
+                                   <div class="floor">
+
+<a class="game-header" href="javascript:void(0);" js-href="//pro.m.jd.com/mall/active/2DPFGD9woSBpEDXq9UqCED6n5kRQ/index.html">
+    <img src="//img12.360buyimg.com/jdphoto/jfs/t12742/304/1447620825/84949/50d4b471/5a20b827Nd78737b7.png">
+</a>
+
+<div class="game-content">
+    <img src="//img10.360buyimg.com/jdphoto/jfs/t12616/139/1381409496/112422/a9548370/5a1fb3f8Nd466f410.png">
+
+    <div class="game-goods-wrap" >
+        <div class="game-goods-list">
+                        <div class="game-goods" style="background: #ffffff;">
+                <div class="game-goods-box" id="game1">
+                <ul class="game-goods-ul">
+                                     <li data-level="1" data-type="5">
+                        <img src="//img12.360buyimg.com/jdphoto/jfs/t16000/230/389505295/27388/bdc8ed4d/5a2f9779N8e5f0164.png">
+                    </li>
+                                     <li data-level="2" data-type="5">
+                        <img src="//img12.360buyimg.com/jdphoto/jfs/t12535/155/624234752/26342/85543e87/5a2f9790Ne78e4975.png">
+                    </li>
+                                     <li data-level="3" data-type="5">
+                        <img src="//img12.360buyimg.com/jdphoto/jfs/t15352/34/770711341/49600/4b1f2e49/5a388637N877e5a22.png">
+                    </li>
+                                     <li data-level="4" data-type="5">
+                        <img src="//img20.360buyimg.com/jdphoto/jfs/t14044/28/2027971325/16832/424b5a83/5a2f9799N50e0c615.png">
+                    </li>
+                                     <li data-level="5" data-type="5">
+                        <img src="//img20.360buyimg.com/jdphoto/jfs/t13474/141/1992217633/17506/ac579f17/5a2f9796N130ae1e9.png">
+                    </li>
+                                     <li data-level="6" data-type="1">
+                        <img src="//img12.360buyimg.com/jdphoto/jfs/t12817/149/2054059303/25454/af195344/5a311a56N5e338023.png">
+                    </li>
+                                     <li data-level="7" data-type="1">
+                        <img src="//img12.360buyimg.com/jdphoto/jfs/t15415/251/562897713/25451/49a38cef/5a311a56N2b8d4476.png">
+                    </li>
+                                     <li data-level="8" data-type="1">
+                        <img src="//img12.360buyimg.com/jdphoto/jfs/t12358/307/2058723549/25532/67603999/5a311a54Nd4ffd9e8.png">
+                    </li>
+                                     <li data-level="9" data-type="1">
+                        <img src="//img20.360buyimg.com/jdphoto/jfs/t15754/125/416323708/25575/4956932e/5a311a42Nc2f9822e.png">
+                    </li>
+                                     <li data-level="10" data-type="1">
+                        <img src="//img30.360buyimg.com/jdphoto/jfs/t12730/68/2098057014/27700/973710ea/5a311a42N35717d98.png">
+                    </li>
+                                     <li data-level="11" data-type="6">
+                        <img src="//img20.360buyimg.com/jdphoto/jfs/t15568/226/606212652/53017/727f3df8/5a377744N31ddfd51.png">
+                    </li>
+                                     <li data-level="12" data-type="6">
+                        <img src="//img14.360buyimg.com/jdphoto/jfs/t15553/52/630388844/52798/99863454/5a3776eaN069cef2a.png">
+                    </li>
+                                     <li data-level="13" data-type="5">
+                        <img src="//img13.360buyimg.com/jdphoto/jfs/t12901/25/2326375570/26892/5274e7b1/5a388e78Nb354afc4.png">
+                    </li>
+                                     <li data-level="14" data-type="5">
+                        <img src="//img10.360buyimg.com/jdphoto/jfs/t12955/352/2303476380/420407/2dd98ef8/5a38af8cNce41dcd0.png">
+                    </li>
+                                     <li data-level="15" data-type="5">
+                        <img src="//img14.360buyimg.com/jdphoto/jfs/t16459/280/638015405/18509/9342a9f1/5a38871fN0e053b53.png">
+                    </li>
+                                     <li data-level="16" data-type="5">
+                        <img src="//img14.360buyimg.com/jdphoto/jfs/t16135/64/619159387/44083/52a658cf/5a388736N07ffd597.png">
+                    </li>
+                                     <li data-level="17" data-type="5">
+                        <img src="//img30.360buyimg.com/jdphoto/jfs/t12313/294/2277387171/38820/dd057c73/5a38873eN270cddef.png">
+                    </li>
+                                     <li data-level="18" data-type="1">
+                        <img src="//img14.360buyimg.com/jdphoto/jfs/t14752/159/878650372/25451/49a38cef/5a3cce71N7129395a.png">
+                    </li>
+                                     <li data-level="19" data-type="1">
+                        <img src="//img12.360buyimg.com/jdphoto/jfs/t16303/115/832264776/27700/973710ea/5a40631aNa4c6ba1a.png">
+                    </li>
+                                     <li data-level="20" data-type="1">
+                        <img src="//img14.360buyimg.com/jdphoto/jfs/t12454/330/2545015389/25575/4956932e/5a406304N331b7cdc.png">
+                    </li>
+                                     <li data-level="21" data-type="1">
+                        <img src="//img11.360buyimg.com/jdphoto/jfs/t13936/35/2364401822/25532/67603999/5a40630eN9d1b9ab0.png">
+                    </li>
+                                     <li data-level="22" data-type="1">
+                        <img src="//img10.360buyimg.com/jdphoto/jfs/t15214/280/993025021/25451/49a38cef/5a406313N03a56e2f.png">
+                    </li>
+                                     <li data-level="23" data-type="1">
+                        <img src="//img11.360buyimg.com/jdphoto/jfs/t13960/93/2371556575/25454/af195344/5a406305N20d9143f.png">
+                    </li>
+                                     <li data-level="24" data-type="1">
+                        <img src="//img14.360buyimg.com/jdphoto/jfs/t14125/321/2474211443/27700/973710ea/5a406329Nd101f914.png">
+                    </li>
+                                     <li data-level="25" data-type="1">
+                        <img src="//img10.360buyimg.com/jdphoto/jfs/t15808/146/852602234/25532/67603999/5a40632fN13d2f38b.png">
+                    </li>
+                                </ul>
+                </div>
+
+            </div>
+                        <div class="game-goods" style="background: #ffffff;">
+                <div class="game-goods-box" id="game2">
+                <ul class="game-goods-ul">
+                                     <li data-level="1" data-type="5">
+                        <img src="//img12.360buyimg.com/jdphoto/jfs/t16000/230/389505295/27388/bdc8ed4d/5a2f9779N8e5f0164.png">
+                    </li>
+                                     <li data-level="2" data-type="5">
+                        <img src="//img12.360buyimg.com/jdphoto/jfs/t12535/155/624234752/26342/85543e87/5a2f9790Ne78e4975.png">
+                    </li>
+                                     <li data-level="3" data-type="5">
+                        <img src="//img12.360buyimg.com/jdphoto/jfs/t15352/34/770711341/49600/4b1f2e49/5a388637N877e5a22.png">
+                    </li>
+                                     <li data-level="4" data-type="5">
+                        <img src="//img20.360buyimg.com/jdphoto/jfs/t14044/28/2027971325/16832/424b5a83/5a2f9799N50e0c615.png">
+                    </li>
+                                     <li data-level="5" data-type="5">
+                        <img src="//img20.360buyimg.com/jdphoto/jfs/t13474/141/1992217633/17506/ac579f17/5a2f9796N130ae1e9.png">
+                    </li>
+                                     <li data-level="6" data-type="1">
+                        <img src="//img12.360buyimg.com/jdphoto/jfs/t12817/149/2054059303/25454/af195344/5a311a56N5e338023.png">
+                    </li>
+                                     <li data-level="7" data-type="1">
+                        <img src="//img12.360buyimg.com/jdphoto/jfs/t15415/251/562897713/25451/49a38cef/5a311a56N2b8d4476.png">
+                    </li>
+                                     <li data-level="8" data-type="1">
+                        <img src="//img12.360buyimg.com/jdphoto/jfs/t12358/307/2058723549/25532/67603999/5a311a54Nd4ffd9e8.png">
+                    </li>
+                                     <li data-level="9" data-type="1">
+                        <img src="//img20.360buyimg.com/jdphoto/jfs/t15754/125/416323708/25575/4956932e/5a311a42Nc2f9822e.png">
+                    </li>
+                                     <li data-level="10" data-type="1">
+                        <img src="//img30.360buyimg.com/jdphoto/jfs/t12730/68/2098057014/27700/973710ea/5a311a42N35717d98.png">
+                    </li>
+                                     <li data-level="11" data-type="6">
+                        <img src="//img20.360buyimg.com/jdphoto/jfs/t15568/226/606212652/53017/727f3df8/5a377744N31ddfd51.png">
+                    </li>
+                                     <li data-level="12" data-type="6">
+                        <img src="//img14.360buyimg.com/jdphoto/jfs/t15553/52/630388844/52798/99863454/5a3776eaN069cef2a.png">
+                    </li>
+                                     <li data-level="13" data-type="5">
+                        <img src="//img13.360buyimg.com/jdphoto/jfs/t12901/25/2326375570/26892/5274e7b1/5a388e78Nb354afc4.png">
+                    </li>
+                                     <li data-level="14" data-type="5">
+                        <img src="//img10.360buyimg.com/jdphoto/jfs/t12955/352/2303476380/420407/2dd98ef8/5a38af8cNce41dcd0.png">
+                    </li>
+                                     <li data-level="15" data-type="5">
+                        <img src="//img14.360buyimg.com/jdphoto/jfs/t16459/280/638015405/18509/9342a9f1/5a38871fN0e053b53.png">
+                    </li>
+                                     <li data-level="16" data-type="5">
+                        <img src="//img14.360buyimg.com/jdphoto/jfs/t16135/64/619159387/44083/52a658cf/5a388736N07ffd597.png">
+                    </li>
+                                     <li data-level="17" data-type="5">
+                        <img src="//img30.360buyimg.com/jdphoto/jfs/t12313/294/2277387171/38820/dd057c73/5a38873eN270cddef.png">
+                    </li>
+                                     <li data-level="18" data-type="1">
+                        <img src="//img14.360buyimg.com/jdphoto/jfs/t14752/159/878650372/25451/49a38cef/5a3cce71N7129395a.png">
+                    </li>
+                                     <li data-level="19" data-type="1">
+                        <img src="//img12.360buyimg.com/jdphoto/jfs/t16303/115/832264776/27700/973710ea/5a40631aNa4c6ba1a.png">
+                    </li>
+                                     <li data-level="20" data-type="1">
+                        <img src="//img14.360buyimg.com/jdphoto/jfs/t12454/330/2545015389/25575/4956932e/5a406304N331b7cdc.png">
+                    </li>
+                                     <li data-level="21" data-type="1">
+                        <img src="//img11.360buyimg.com/jdphoto/jfs/t13936/35/2364401822/25532/67603999/5a40630eN9d1b9ab0.png">
+                    </li>
+                                     <li data-level="22" data-type="1">
+                        <img src="//img10.360buyimg.com/jdphoto/jfs/t15214/280/993025021/25451/49a38cef/5a406313N03a56e2f.png">
+                    </li>
+                                     <li data-level="23" data-type="1">
+                        <img src="//img11.360buyimg.com/jdphoto/jfs/t13960/93/2371556575/25454/af195344/5a406305N20d9143f.png">
+                    </li>
+                                     <li data-level="24" data-type="1">
+                        <img src="//img14.360buyimg.com/jdphoto/jfs/t14125/321/2474211443/27700/973710ea/5a406329Nd101f914.png">
+                    </li>
+                                     <li data-level="25" data-type="1">
+                        <img src="//img10.360buyimg.com/jdphoto/jfs/t15808/146/852602234/25532/67603999/5a40632fN13d2f38b.png">
+                    </li>
+                                </ul>
+                </div>
+
+            </div>
+                        <div class="game-goods" style="background: #ffffff;">
+                <div class="game-goods-box" id="game3">
+                <ul class="game-goods-ul">
+                                     <li data-level="1" data-type="5">
+                        <img src="//img12.360buyimg.com/jdphoto/jfs/t16000/230/389505295/27388/bdc8ed4d/5a2f9779N8e5f0164.png">
+                    </li>
+                                     <li data-level="2" data-type="5">
+                        <img src="//img12.360buyimg.com/jdphoto/jfs/t12535/155/624234752/26342/85543e87/5a2f9790Ne78e4975.png">
+                    </li>
+                                     <li data-level="3" data-type="5">
+                        <img src="//img12.360buyimg.com/jdphoto/jfs/t15352/34/770711341/49600/4b1f2e49/5a388637N877e5a22.png">
+                    </li>
+                                     <li data-level="4" data-type="5">
+                        <img src="//img20.360buyimg.com/jdphoto/jfs/t14044/28/2027971325/16832/424b5a83/5a2f9799N50e0c615.png">
+                    </li>
+                                     <li data-level="5" data-type="5">
+                        <img src="//img20.360buyimg.com/jdphoto/jfs/t13474/141/1992217633/17506/ac579f17/5a2f9796N130ae1e9.png">
+                    </li>
+                                     <li data-level="6" data-type="1">
+                        <img src="//img12.360buyimg.com/jdphoto/jfs/t12817/149/2054059303/25454/af195344/5a311a56N5e338023.png">
+                    </li>
+                                     <li data-level="7" data-type="1">
+                        <img src="//img12.360buyimg.com/jdphoto/jfs/t15415/251/562897713/25451/49a38cef/5a311a56N2b8d4476.png">
+                    </li>
+                                     <li data-level="8" data-type="1">
+                        <img src="//img12.360buyimg.com/jdphoto/jfs/t12358/307/2058723549/25532/67603999/5a311a54Nd4ffd9e8.png">
+                    </li>
+                                     <li data-level="9" data-type="1">
+                        <img src="//img20.360buyimg.com/jdphoto/jfs/t15754/125/416323708/25575/4956932e/5a311a42Nc2f9822e.png">
+                    </li>
+                                     <li data-level="10" data-type="1">
+                        <img src="//img30.360buyimg.com/jdphoto/jfs/t12730/68/2098057014/27700/973710ea/5a311a42N35717d98.png">
+                    </li>
+                                     <li data-level="11" data-type="6">
+                        <img src="//img20.360buyimg.com/jdphoto/jfs/t15568/226/606212652/53017/727f3df8/5a377744N31ddfd51.png">
+                    </li>
+                                     <li data-level="12" data-type="6">
+                        <img src="//img14.360buyimg.com/jdphoto/jfs/t15553/52/630388844/52798/99863454/5a3776eaN069cef2a.png">
+                    </li>
+                                     <li data-level="13" data-type="5">
+                        <img src="//img13.360buyimg.com/jdphoto/jfs/t12901/25/2326375570/26892/5274e7b1/5a388e78Nb354afc4.png">
+                    </li>
+                                     <li data-level="14" data-type="5">
+                        <img src="//img10.360buyimg.com/jdphoto/jfs/t12955/352/2303476380/420407/2dd98ef8/5a38af8cNce41dcd0.png">
+                    </li>
+                                     <li data-level="15" data-type="5">
+                        <img src="//img14.360buyimg.com/jdphoto/jfs/t16459/280/638015405/18509/9342a9f1/5a38871fN0e053b53.png">
+                    </li>
+                                     <li data-level="16" data-type="5">
+                        <img src="//img14.360buyimg.com/jdphoto/jfs/t16135/64/619159387/44083/52a658cf/5a388736N07ffd597.png">
+                    </li>
+                                     <li data-level="17" data-type="5">
+                        <img src="//img30.360buyimg.com/jdphoto/jfs/t12313/294/2277387171/38820/dd057c73/5a38873eN270cddef.png">
+                    </li>
+                                     <li data-level="18" data-type="1">
+                        <img src="//img14.360buyimg.com/jdphoto/jfs/t14752/159/878650372/25451/49a38cef/5a3cce71N7129395a.png">
+                    </li>
+                                     <li data-level="19" data-type="1">
+                        <img src="//img12.360buyimg.com/jdphoto/jfs/t16303/115/832264776/27700/973710ea/5a40631aNa4c6ba1a.png">
+                    </li>
+                                     <li data-level="20" data-type="1">
+                        <img src="//img14.360buyimg.com/jdphoto/jfs/t12454/330/2545015389/25575/4956932e/5a406304N331b7cdc.png">
+                    </li>
+                                     <li data-level="21" data-type="1">
+                        <img src="//img11.360buyimg.com/jdphoto/jfs/t13936/35/2364401822/25532/67603999/5a40630eN9d1b9ab0.png">
+                    </li>
+                                     <li data-level="22" data-type="1">
+                        <img src="//img10.360buyimg.com/jdphoto/jfs/t15214/280/993025021/25451/49a38cef/5a406313N03a56e2f.png">
+                    </li>
+                                     <li data-level="23" data-type="1">
+                        <img src="//img11.360buyimg.com/jdphoto/jfs/t13960/93/2371556575/25454/af195344/5a406305N20d9143f.png">
+                    </li>
+                                     <li data-level="24" data-type="1">
+                        <img src="//img14.360buyimg.com/jdphoto/jfs/t14125/321/2474211443/27700/973710ea/5a406329Nd101f914.png">
+                    </li>
+                                     <li data-level="25" data-type="1">
+                        <img src="//img10.360buyimg.com/jdphoto/jfs/t15808/146/852602234/25532/67603999/5a40632fN13d2f38b.png">
+                    </li>
+                                </ul>
+                </div>
+
+            </div>
+            
+        </div>
+                <span class="game-tip-info">您还未登录哦~点击抽奖先登录~</span>
+            </div>
+   
+   
+    <a class="game-rule" href="javascript:void(0);"></a>
+
+         <a class="no-login-game-btn" href="javascript:void(0);" js-href="https://passport.m.jd.com/user/login.action?returnurl=https://m.jd.com?indexloc=1"></a>
+        
+    
+</div>
+<div class="game-rule-tip">
+
+    <div class="game-rule-tip-content scrollable">
+    <div class=“game-rule-tip-content scrollable“ style=“line-height:1.8em“>  <p style=“text-align:center;“>【活动时间】</p> 2017年12月23日00:00:00-2017年12月26日00:00:00  <p> </p> <p style=“text-align:center;“>【参与方式】</p> <p style=“text-align:center;“>点击老虎机抽奖即有可能获得奖品</p>  <p> </p> <p style=“text-align:center;“>【奖品设置】</p> <p>1. 新大洲电动车； </p> <p>2. 金刚电动滑板车；</p>  <p>3. 旋爆式口交锻炼杯；</p>  <p>4. 双向快充宝； </p> <p>5. 华为笔记本； </p> <p>6. 百威啤酒500ml*18听；</p>  <p>7. 巧克力糖果礼盒； </p> <p>8. 美的蓝牙脂肪秤； </p> <p>9. 现金红包包括0.5元、10元；</p>  <p>10. 全品类优惠券包括300减15、120减6、150减8、250减12、6元免邮券。（领取有效时间：2017年12月23日00:00:00-2017年12月26日00:00:00）; </p> <p> </p> <p style=“text-align:center;“>【奖品发放形式】</p>  <p>1. 实物奖品：每个奖品每人限中一个。中奖用户需要在2017年12月26日00:00:00前，在活动界面填写个人信息以及联系方式，提交后不可更改。之后工作人员按照中奖用户提交的收件人姓名、地址和手机号码在2018年1月5日前联系中奖用户并安排奖品发放。请获奖用户及时准确填写收件信息，如未填写有效收件信息，或与之前填写的任意一项信息不符的用户视为放弃奖品。 </p> <p>2. 优惠券：每种优惠券每个人限中一张。用户中奖后系统直接发放给参与活动的京东账户，用户可在京东账号入口下查看优惠券；如用户领取优惠券后未在有效时间内使用，则视用户放弃奖品，京东不再补发。 </p> <p>3. 现金红包：每个金额等级的现金红包每个用户限中一个。用户中奖后系统直接发放给参与活动的京东账户的金融小金库之中，用户可在京东账号入口下的小金库查看中奖现金。 </p> <p> </p> <p style=“text-align:center;“>【游戏规则】</p> </p> <p>1. 已登陆用户首页点击“开始抽奖”即可参与抽奖；</p> <p> 2. 未登录用户需登陆后才可进行抽奖在抽奖页面；</p> <p> 3.抽奖有机会抽到实物奖品、现金红包和优惠券；</p> <p> 4.每个用户每个奖品只有中一次的机会； </p> <p>5.每个京东用户每日参与本次活动次数限制为10次，若不同的微信、手机号等绑定同一个京东账号多次参与活动的，以最早参与活动的账号为有效账号，其余账号视为无效，京东将保证您在填写领奖事宜的任何个人资料不外泄；</p> <p> 6.发放实物奖品前，京东有权要求用户提供其身份证、护照、参与活动京东帐号等证明用户符合本活动规则的材料信息，如用户所提供的信息不真实、不完整、失效或不合法的，京东可不发放奖品； </p> <p>7.本活动所发放的优惠券不得提现，不得转赠他人，不得为他人付款，活动期间，使用优惠券的订单如发生取消订单、退货、退款，该优惠券即作废； </p> <p>8.优惠券在指定时间范围内按照规则抵扣现金使用，优惠券使用时间及可使用范围可在【京东购物-个人中心-京东券】中查看具体使用详情。本活动优惠券仅限于单笔订单，同一订单不可叠加使用，且订单上的商品需同时满足用券要求； </p> <p>9.优惠券只限普通消费者获得，一经发现渠道商、经销商违规获取，京东有权取消其获奖资格或购买资格； </p> <p>10.每个京东用户仅限有效参与本次活动一次，在参与活动过程中，如果出现违规行为（如作弊领取、恶意套取、刷信誉等），京东平台有权将取消用户获得本次活动涉及的实物奖品、优惠券以及使用优惠券的资格，并有权撤销违规交易，收回优惠券（含已使用的及未使用的）；如给京东造成损失的，京东保留向违规用户继续追索的权利； </p> <p>11. 活动咨询时间：2017年12月23日00:00:00-2017年12月26日00:00:00。为了及时有效的处理您的问题，若您对活动有任何疑问，请在活动咨询时间内进行咨询和反馈，谢谢配合。</p> </div>
+    </div>
+    
+</div>
+<div class="game-result-tip">
+    <div class="result-box" style="background:url(//img11.360buyimg.com/jdphoto/jfs/t15835/263/78353150/37845/f365a68c/5a264ee2N3c2bceb0.png) no-repeat;background-size:cover;">
+        <span class="result-close-btn"></span>
+        <div class="result-content">
+            <p class="result-txt"></p>
+            <img class="result-img" src= "">
+            <a class="result-btn" style="color: #735e1b" href="javascript:;" ></a>
+        </div>
+    </div>
+</div>
+
+</div>
+
+<script>
+var vm_active_link = "//pro.m.jd.com/mall/active/2DPFGD9woSBpEDXq9UqCED6n5kRQ/index.html";
+var vm_active_ojc_link = "/index/myActiveDraw";
+var vm_active_money_link = "//m.jr.jd.com/ck/jkkh/index.html?channel=21039&channelToken=01999dbc822ceaf0a53e4d45c66a6cd9";
+
+var vm_active_atom_img = "//img10.360buyimg.com/jdphoto/jfs/t14527/45/238543395/35220/a8175709/5a27c781N09bb44eb.png";
+var vm_length = "25";
+var vm_active = "mxmas2017";
+
+
+</script>
+
+                
+                
+
+                                                 <div class="jd-express-news">
+                    <a  report-eventid="MHome_BJDTitle" report-eventlevel="1"  report-eventparam="3051" page_name="index"  class="J_ping jd-news-tit" href="https://pro.m.jd.com/mall/active/3vWapAz58pJGYRfNeG88ddfsMM8S/index.html"><img src="//st.360buyimg.com/m/images/index/jd-news-tit.png"></a>
+                    <div id="scroll-news" class="news-list-wrapper">
+                        <ul class="news-list">
+                                                            <li class="news-item">
+                                    <a report-eventid="MHome_BJDNews" report-eventlevel="1"  report-eventparam="3051_0_CMSSH330394_0__0_1_1___________" page_name="index" href="https://pro.m.jd.com/mall/active/3vWapAz58pJGYRfNeG88ddfsMM8S/index.html" class="J_ping">
+                                        <span class="red">热门</span>最耐摔的iPhone X手机壳
+                                    </a>
+                                </li>
+                                                            <li class="news-item">
+                                    <a report-eventid="MHome_BJDNews" report-eventlevel="1"  report-eventparam="3051_1_CMSSH330401_0__0_1_1___________" page_name="index" href="https://pro.m.jd.com/mall/active/3vWapAz58pJGYRfNeG88ddfsMM8S/index.html" class="J_ping">
+                                        <span class="red">热</span>要比人脸识别，小米最会玩
+                                    </a>
+                                </li>
+                                                            <li class="news-item">
+                                    <a report-eventid="MHome_BJDNews" report-eventlevel="1"  report-eventparam="3051_2_CMSSH330406_0__0_1_1___________" page_name="index" href="https://pro.m.jd.com/mall/active/3vWapAz58pJGYRfNeG88ddfsMM8S/index.html" class="J_ping">
+                                        <span class="red">热</span>10平，如何打造出100平的感觉
+                                    </a>
+                                </li>
+                                                            <li class="news-item">
+                                    <a report-eventid="MHome_BJDNews" report-eventlevel="1"  report-eventparam="3051_3_CMSSH330410_0__0_1_1___________" page_name="index" href="https://pro.m.jd.com/mall/active/3vWapAz58pJGYRfNeG88ddfsMM8S/index.html" class="J_ping">
+                                        <span class="red">热</span>戴上这款奇葩手表，回头率300%
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                    <a  report-eventid="MHome_BJDNewsMore" report-eventlevel="1"  report-eventparam="3051" page_name="index"  class="J_ping jd-news-more" href="https://pro.m.jd.com/mall/active/3vWapAz58pJGYRfNeG88ddfsMM8S/index.html"><i class="line"></i>更多</a>
+                </div>
+                                                <div  class="floor bdr-bottom "  >                                                                                                                                  <div class="seckill-floor">
+                                    <div id="seckill_title" class="title-wrap">                                         <a class="seckill-left-link  J_ping" href="https://ms.m.jd.com/seckill/seckillList" page_name="index" report-eventlevel="1"  report-eventparam=""  report-eventid="MHome_BHandSeckillTopic">
+                                            <img id="seckill_name" class="seckill-tit-img" src="//st.360buyimg.com/m/images/index/load/skill.png"/>
+                                            <strong id="seckill_now"  class="seckill-nth"  style="font-color:#000000" ><em>10</em>点场</strong>
+                                            <div class="seckill-timer" id="seckill_time">
+                                                <div class="seckill-time"><span>0</span><span>0</span></div>
+                                                <span class="seckill-time-separator">:</span>
+                                                <div class="seckill-time"><span>0</span><span>0</span></div>
+                                                <span class="seckill-time-separator">:</span>
+                                                <div class="seckill-time"><span>0</span><span>0</span></div>
+                                            </div>
+                                            <span id="seckill_loading" ></span>
+                                        </a>
+                                        <a class="seckill-more-link  J_ping"  href="https://ms.m.jd.com/seckill/seckillList" page_name="index" report-eventlevel="1"  report-eventparam="4005_0_CMSSH302711_0_797025_0_1_1____________{"position":"1#1","sourceid":"302711","sourcetype":"0","floorid":"4005"}_RIGHTCORNER_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0-55_京选尖货秒_miaosha"   report-eventid="MHome_BHandSeckillMore">
+                                            京选尖货秒                                             <i class="seckill-more-icon"></i>
+                                        </a>
+                                    </div>
+                                    <div class="floor-container  seckill-slider">
+                                        <ul id ="seckillul"  class="seckill-new-list" >
+                                                                                                                                             <li class="seckill-new-item">
+                                                    <div class="seckill-item-img bdr-r">
+                                                        <a report-eventid="MHome_BHandSeckill" report-eventlevel="1"  report-eventparam="34_1_4611409_0_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0" page_name="index" href="https://ms.m.jd.com/seckill/seckillList?wareId=4611409" class="seckill-new-link J_ping">
+                                                            <img width="100%" src="//st.360buyimg.com/m/images/index/seckill-220-new.png" imgsrc="https://m.360buyimg.com/mobilecms/s220x220_jfs/t10852/69/1019216077/418065/f937865f/59db1f8cN93efed0c.jpg!q70.jpg" border="0" class="seckill-photo" />
+                                                                                                                    </a>
+                                                    </div>
+                                                    <div class="seckill-item-price">
+                                                        <span class="seckill-new-price"><em>&yen;</em>1499</span>
+                                                        <span class="seckill-original-price"><em>&yen;</em>1699<hr></span>
+                                                    </div>
+                                                </li>
+                                                                                                                                             <li class="seckill-new-item">
+                                                    <div class="seckill-item-img bdr-r">
+                                                        <a report-eventid="MHome_BHandSeckill" report-eventlevel="1"  report-eventparam="34_1_5590750_1_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0" page_name="index" href="https://ms.m.jd.com/seckill/seckillList?wareId=5590750" class="seckill-new-link J_ping">
+                                                            <img width="100%" src="//st.360buyimg.com/m/images/index/seckill-220-new.png" imgsrc="https://m.360buyimg.com/mobilecms/s220x220_jfs/t12439/179/897900885/159347/6c46c9f2/5a1699ddNdee82723.jpg!q70.jpg" border="0" class="seckill-photo" />
+                                                                                                                    </a>
+                                                    </div>
+                                                    <div class="seckill-item-price">
+                                                        <span class="seckill-new-price"><em>&yen;</em>24.9</span>
+                                                        <span class="seckill-original-price"><em>&yen;</em>52.9<hr></span>
+                                                    </div>
+                                                </li>
+                                                                                                                                             <li class="seckill-new-item">
+                                                    <div class="seckill-item-img bdr-r">
+                                                        <a report-eventid="MHome_BHandSeckill" report-eventlevel="1"  report-eventparam="34_1_10061035713_2_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0" page_name="index" href="https://ms.m.jd.com/seckill/seckillList?wareId=10061035713" class="seckill-new-link J_ping">
+                                                            <img width="100%" src="//st.360buyimg.com/m/images/index/seckill-220-new.png" imgsrc="https://m.360buyimg.com/mobilecms/s220x220_jfs/t16489/312/674795688/129175/87979bd7/5a39caceN8d9c12b8.jpg!q70.jpg" border="0" class="seckill-photo" />
+                                                                                                                    </a>
+                                                    </div>
+                                                    <div class="seckill-item-price">
+                                                        <span class="seckill-new-price"><em>&yen;</em>78</span>
+                                                        <span class="seckill-original-price"><em>&yen;</em>180<hr></span>
+                                                    </div>
+                                                </li>
+                                                                                                                                                                                         </ul>
+                                    </div>
+                                </div>
+                                                          <script>
+                                rTimeArr[10]["time"] = new Date();
+                                window._PFM_TIMING[5]=new Date();
+                            </script>
+
+                                                               </div>
+                                                <div  class="floor "  >                                                                                                                                                <div class="floor-item    ">
+                                <div class="container-col01  ">
+                                    <div id="slider_3363_1"  class="slider-wrapper" >
+                                        <ul  id="slider_3363_1_touch" class="new-slide"  data-slide-ul="firstUl" >
+                                            <li  data-ul-child="child" class="slide-li"><a  class="J_ping" report-eventlevel="1" report-eventid="MHome_BFloor"  report-eventparam="3363_0_CMSSH330276_0_837970_0_1_1____________{"position":"1#1","sourceid":"330276","sourcetype":"0","floorid":"3363"}" page_name="index" href='https://pro.m.jd.com/mall/active/mPmu1FKkK8TYzPsJrB6eNzgst4y/index.html'>
+                                                                                                    <img  src="//st.360buyimg.com/m/images/index/load/06003.png"  imgsrc="https://m.360buyimg.com/mobilecms/jfs/t16411/38/691446762/184341/a377158f/5a3a2a9bN67c638a6.gif" />
+                                                
+                                            </a></li>
+                                        </ul>
+                                        <div class="focus-btn"  data-small-btn="smallbtn"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                                                                                       </div>
+                                                <div  class="floor "  >                                                                                                <div class="floor-container   bdr-bottom  ">
+                                <div class="floor-graphic-item">
+                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="4481_0_CMSSH325511_0_832734_0_1_1____________{"position":"1#1","sourceid":"325511","sourcetype":"0","floorid":"4481"}" page_name="index" href="https://pro.m.jd.com/mall/active/4EeRq5yD6YgDYEvSbx8XdaAedSDq/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#FF2A2A,#F139D2'>白条商城</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#222222">底价疯抢中~</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t14770/47/247529063/20502/8f891f6c/5a27afe9Nc66b0410.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="4481_0_CMSSH331084_0_839143_0_1_1____________{"position":"1#2","sourceid":"331084","sourcetype":"0","floorid":"4481"}" page_name="index" href="https://ms.m.jd.com/seckill/seckillNewBrand" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#FE8537,#F02B2B'>品牌秒杀</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#222222">低价抢大牌</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t14692/209/900975955/27272/b2a27c90/5a3dbca8N74736fa5.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="4481_0_CMSSH325555_0_831683_0_1_1___10781267378#3____1#3#sg-1.1.0#769959#10781267378-216278_____{"position":"1#3","picbiinfo":"1#3#sg-1.1.0#769959#10781267378-216278","entryinfo":"10781267378#3","sourceid":"325555","sourcetype":"0","floorid":"4481"}" page_name="index" href="https://red.m.jd.com/app/index.html?recommParam=%5B%7B%22actId%22%3A%22216278%22%2C%22biTag%22%3A%22sg-1.1.0%22%2C%22skuId%22%3A%2210781267378%22%7D%5D" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#D400FF,#FF310A'>闪购</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#222222">大牌限时特卖</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/n1/jfs/t3229/205/3951037165/157336/2c5d144a/57f9b494N71042d46.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="    graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="4481_0_CMSSH330894_0_838820_0_1_1____________{"position":"1#4","sourceid":"330894","sourcetype":"0","floorid":"4481"}" page_name="index" href="https://pro.m.jd.com/mall/active/3xwYQ54Lg9o6sbU5WwV4ACi1VVT8/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>爱吃</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#222222">领券188-100</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t15166/61/794277608/119193/18ca5860/5a38e4d1Na9b9cd29.png!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                                                                                   <div class="floor-container   ">
+                                <div class="floor-graphic-item">
+                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="4481_0_CMSSH325564_0_831695_0_1_1___231415#1___1#1#ABTest-10197-A-74-ABTest-10199-B3-62#770062#231415______{"position":"2#1","picbiinfo":"1#1#ABTest-10197-A-74-ABTest-10199-B3-62#770062#231415","entryinfo":"231415#1","sourceid":"325564","sourcetype":"0","floorid":"4481"}" page_name="index" href="https://coupon.m.jd.com/ranklist/hotSaleRankList.action?innerLink=%5B%7B%22innerAnchor%22%3A%22231415%22%2C%22innerExtId%22%3A%221625_1662%22%7D%5D" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#D400FF,#FF320A'>排行榜</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#222222">专属购物指南</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/n1/jfs/t7495/71/1900646516/237309/fe3bdbf4/59a3cc84N7dc31fda.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="4481_0_CMSSH325565_0_831696_0_1_1___15937361055#1___1#0#ABTest-10093-nullPin&99&5b1862d64f1c4d729a3b8dd6cd07f5b9#770204#15937361055______{"position":"2#2","picbiinfo":"1#0#ABTest-10093-nullPin&99&5b1862d64f1c4d729a3b8dd6cd07f5b9#770204#15937361055","entryinfo":"15937361055#1","sourceid":"325565","sourcetype":"0","floorid":"4481"}" page_name="index" href="https://coupon.m.jd.com/findgoods/index.action?recommParam=%5B%7B%22innerAnchor%22%3A%2215937361055%22%2C%22innerExtId%22%3A%22%22%7D%5D" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#00C2AB,#3E94FF'>发现好货</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#222222">发现品质生活</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/n1/jfs/t9277/302/286299788/84921/4022f2e5/59a51a85Nfa9e0e04.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="4481_0_CMSSH325566_0_831698_0_1_1___11531972#7___1#2#5d4ec2184b605971f52ad88ca16a06c300e2cf51-0#338115______{"position":"2#3","picbiinfo":"1#2#5d4ec2184b605971f52ad88ca16a06c300e2cf51-0#338115","entryinfo":"11531972#7","sourceid":"325566","sourcetype":"0","floorid":"4481"}" page_name="index" href="https://h5.m.jd.com/active/youpin/list/index.html?innerLink=%5B%7B%22innerAnchor%22%3A%2211531972%22%2C%22innerExtId%22%3A%22840745%22%7D%5D" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#FF765C,#FF23B3'>会买专辑</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#222222">好物大集合</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/n1/jfs/t277/315/651277119/563267/c1771312/541b9a83Nd1cd9c3e.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="    graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="4481_0_CMSSH326544_0_832791_0_1_1____________{"position":"2#4","sourceid":"326544","sourcetype":"0","floorid":"4481"}" page_name="index" href="https://news.m.jd.com/" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#2AD396,#85BB1F'>新品首发</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#222222">全面屏手机</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t16162/157/644524656/31555/a4ad641e/5a3ccd64N8683cabd.png!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                                               </div>
+                                                <div  class="floor bdr-bottom "  >                                                                         <div class="floor-title floor-tit-img" data-floorName="爱生活">
+                                                                    <span class="tit-img"><img src="https://m.360buyimg.com/mobilecms/jfs/t4270/297/570405700/13314/a46c9b82/58b64705Nce641d00.jpg!q70.jpg"> </span>
+                                                            </div>
+                                                                                                                       <div class="floor-container   bdr-bottom  ">
+                                <div class="floor-graphic-item">
+                                                                             <div class="bdr-r     graphic-separation  graphic-col02-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="3405_0_CMSSH331145_0_839209_0_1_1____206________{"position":"1#1","sourceid":"331145","sourcetype":"0","floorid":"3405"}" page_name="index" href="https://pro.m.jd.com/mall/active/3wX17ys13EaDtijVP6KnfrBucNhV/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06006.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>玩3C</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#FF5959">iPhone 8 今日立减689元！</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img graphic-img02  ">
+                                                            <img src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t14125/285/900232321/14466/12dfc3a3/5a163dd1Ne09fad4b.jpg!q70.jpg" imgtitle="true">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t11707/62/2329579616/14092/4e14dfa/5a163e91N38eadb95.jpg!q70.jpg" imgtitle="true">
+                                                                                                                    </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="    graphic-separation  graphic-col02-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="3405_0_CMSSH330006_0_837561_0_1_1____294________{"position":"1#2","sourceid":"330006","sourcetype":"0","floorid":"3405"}" page_name="index" href="https://pro.m.jd.com/mall/active/3v8B7LfhJHAiyDBMU91eR2YKj5eY/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06006.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>京东家电</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#FF5959">疯抢亿元神券，满千减百！</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img graphic-img02  ">
+                                                            <img src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t15814/29/383543449/49896/83b82f88/5a2f8992N402c8001.jpg!q70.jpg" imgtitle="true">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t13366/76/2058618984/23905/b5e9a4ad/5a3718e2Ne9a5c0ac.jpg!q70.jpg" imgtitle="true">
+                                                                                                                    </div>
+                                                                                                                    <span class="graphic-btn" data-lbcolor="#FF6E00,#FF5644,#FF4A7D">裸价出击<i></i></span>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                    </div>
+                            </div>
+
+                                                                                                                                                   <div class="floor-container   bdr-bottom  ">
+                                <div class="floor-graphic-item">
+                                                                             <div class="bdr-r     graphic-separation  graphic-col02-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="3405_0_CMSSH330513_0_838294_0_1_1____208________{"position":"2#1","sourceid":"330513","sourcetype":"0","floorid":"3405"}" page_name="index" href="https://pro.m.jd.com/mall/active/HJjDspYKabdZx4PKAz1XkKdYsgi/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06006.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>京东超市</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#FF5959">好货部分满99-50 满199-100</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img graphic-img02  ">
+                                                            <img src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/n1/jfs/t13711/302/501765514/78863/454152bf/5a0d760cN12b0a9b5.jpg!q70.jpg" imgtitle="true">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/n1/jfs/t13039/304/527386620/70816/def3410/5a0d7613Nc362c6ab.jpg!q70.jpg" imgtitle="true">
+                                                                                                                    </div>
+                                                                                                                    <span class="graphic-btn" data-lbcolor="#FF6E00,#FF5644,#FF4A7D">抢购爆款好货<i></i></span>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="    graphic-separation  graphic-col02-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="3405_0_CMSSH330770_0_838676#1_0_1_1_ABTest-10032-C1-64-channelpic___209________{"position":"2#2","picbiinfo":"ABTest-10032-C1-64-channelpic","sourceid":"330770","sourcetype":"0","floorid":"3405"}" page_name="index" href="https://pro.m.jd.com/mall/active/3ERYagkof4iRKmjzVYcxUE7tM8L8/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06006.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>爱家</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#FF5959">家具999-300 厨具199-100逛</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img graphic-img02  ">
+                                                            <img src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t12058/260/2373004457/28529/1e164a8e/5a3b9eceN5dc22a15.jpg!q70.jpg" imgtitle="true">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t13549/138/745862060/40846/d77784d3/5a339fdbN2c568b6b.jpg!q70.jpg" imgtitle="true">
+                                                                                                                    </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                    </div>
+                            </div>
+
+                                                                                                                                                   <div class="floor-container   ">
+                                <div class="floor-graphic-item">
+                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="3405_0_CMSSH324141_0_829490_0_1_1____210________{"position":"3#1","sourceid":"324141","sourcetype":"0","floorid":"3405"}" page_name="index" href="https://pro.m.jd.com/mall/active/odgLvES1dsSr2gDD79sDGBELvSo/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>爱宝宝</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#FF5959">爆款低至5折</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/n1/jfs/t9496/273/1464951772/22953/872f5685/59c1d701N8d7388e6.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="3405_0_CMSSH330133_0_837798#1_0_1_1_ABTest-10032-C1-64-channelpic___211________{"position":"3#2","picbiinfo":"ABTest-10032-C1-64-channelpic","sourceid":"330133","sourcetype":"0","floorid":"3405"}" page_name="index" href="https://pro.m.jd.com/mall/active/2QYwVrMZEDdfuAjGRVDHD4fLs69A/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>爱美丽</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#FF5959">满199减100</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t13825/222/2291878374/16014/3cd1a49f/5a38e8f4N9fbd4322.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="3405_0_CMSSH330893_0_838818_0_1_1____212________{"position":"3#3","sourceid":"330893","sourcetype":"0","floorid":"3405"}" page_name="index" href="https://pro.m.jd.com/mall/active/3xwYQ54Lg9o6sbU5WwV4ACi1VVT8/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>爱吃</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#FF5959">领券188-100</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t15166/61/794277608/119193/18ca5860/5a38e4d1Na9b9cd29.png!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                                    <span class="graphic-btn" data-lbcolor="#FF6E00,#FF5644,#FF4A7D">超值购<i></i></span>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="    graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="3405_0_CMSSH330989_0_838980_0_1_1____213________{"position":"3#4","sourceid":"330989","sourcetype":"0","floorid":"3405"}" page_name="index" href="https://pro.m.jd.com/mall/active/49zPJ9HagL8mMA4FCha2vbZ2Rhao/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>爱穿搭</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#FF5959">低至49</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t15997/92/576196289/55203/36e94cbf/5a3ce733Ne3d01b96.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                                               </div>
+                                                <div  class="floor "  >                                                                                                                                                <div class="floor-item    ">
+                                <div class="container-col01  nofull-slider margin-lt-10  ">
+                                    <div id="slider_2892_1"  class="slider-wrapper" >
+                                        <ul  id="slider_2892_1_touch" class="new-slide"  data-slide-ul="firstUl" >
+                                            <li  data-ul-child="child" class="slide-li"><a  class="J_ping" report-eventlevel="1" report-eventid="MHome_BFloor"  report-eventparam="2892_0_CMSSH331142_0_839206_0_1_1____________{"position":"1#1","sourceid":"331142","sourcetype":"0","floorid":"2892"}" page_name="index" href='https://pro.m.jd.com/mall/active/2L8XQg82k15Lvd54T3RddPvUgcaF/index.html'>
+                                                                                                    <img  src="//st.360buyimg.com/m/images/index/load/06001.png"  imgsrc="https://m.360buyimg.com/mobilecms/jfs/t14515/74/885888579/160443/68f8957f/5a3cec30N9fe03b09.jpg!q70.jpg"/>
+                                                
+                                            </a></li>
+                                        </ul>
+                                        <div class="focus-btn"  data-small-btn="smallbtn"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                                                                                       </div>
+                                                <div  class="floor bdr-bottom "  >                                                                         <div class="floor-title floor-tit-img" data-floorName="逛商场">
+                                                                    <span class="tit-img"><img src="https://m.360buyimg.com/mobilecms/jfs/t7069/116/1578198469/38957/112b97ab/598c3f17Nf2541b06.jpg!q70.jpg"> </span>
+                                                            </div>
+                                                                                                                       <div class="floor-container   bdr-bottom  ">
+                                <div class="floor-graphic-item">
+                                                                             <div class="bdr-r     graphic-separation  graphic-col02-sm">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="3703_0_CMSSH330017_0_837572_0_0_1___5102214#4_293_1#d3e709ccba3384795c0a372ddaf6db3e3bbafa57-0#718903#null_______{"position":"1#1","picbiinfo":"1#d3e709ccba3384795c0a372ddaf6db3e3bbafa57-0#718903#null","entryinfo":"5102214#4","sourceid":"330017","sourcetype":"0","floorid":"3703"}" page_name="index" href="https://pro.m.jd.com/mall/active/NgXXpxz3BTkEMvqmVcPAqyJWoom/index.html?innerLink=%5B%7B%22groupId%22%3A%2201958326%22%2C%22matId%22%3A%225102214%22%2C%22matType%22%3A%220%22%7D%5D" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06005.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>大家电馆</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#D663E1">满千减百</p>
+                                                                                                                    </div>
+                                                        <div class="graphic-img"><img src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/n1/jfs/t5095/268/2685457967/498506/72c2997c/591d49ecNc1e54e0b.jpg!q70.jpg" imgtitle="true"></div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="    graphic-separation  graphic-col02-sm">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="3703_0_CMSSH324225_0_829592_0_0_1____241________{"position":"1#2","sourceid":"324225","sourcetype":"0","floorid":"3703"}" page_name="index" href="https://pro.m.jd.com/mall/active/cG1FM5FQ3axST5UvDnfQoioS48V/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06005.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>母婴馆</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#D663E1">5折抢爆品</p>
+                                                                                                                    </div>
+                                                        <div class="graphic-img"><img src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t7762/34/299883023/13041/d9b1518/5991715cNd6a6f1e9.jpg!q70.jpg" imgtitle="true"></div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                    </div>
+                            </div>
+
+                                                                                                                                                   <div class="floor-container   bdr-bottom  ">
+                                <div class="floor-graphic-item">
+                                                                             <div class="bdr-r     graphic-separation  graphic-col02-sm">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="3703_0_CMSSH329289_0_836417_0_0_1____233________{"position":"2#1","sourceid":"329289","sourcetype":"0","floorid":"3703"}" page_name="index" href="https://pro.m.jd.com/mall/active/31XPWPTonxJ9e5YoQ85HS7z8XNYQ/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06005.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>电脑办公</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#D663E1">键鼠套装139</p>
+                                                                                                                    </div>
+                                                        <div class="graphic-img"><img src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t12841/225/2065903976/32222/13b29b90/5a31df1dNa622cc98.png!q70.jpg" imgtitle="true"></div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="    graphic-separation  graphic-col02-sm">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="3703_0_CMSSH330919_0_838855_0_0_1____290________{"position":"2#2","sourceid":"330919","sourcetype":"0","floorid":"3703"}" page_name="index" href="https://pro.m.jd.com/mall/active/32EphPL81Mb6FD4qLCTtYmd31YXr/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06005.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>男装馆</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#D663E1">低至89</p>
+                                                                                                                    </div>
+                                                        <div class="graphic-img"><img src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t15895/133/178057988/23929/c8307bcf/5a2a8ac7Nebd86cae.jpg!q70.jpg" imgtitle="true"></div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                    </div>
+                            </div>
+
+                                                                                                                                                   <div class="floor-container   bdr-bottom  ">
+                                <div class="floor-graphic-item">
+                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="3703_0_CMSSH301020_0_794249_0_0_1___5343946#5_240_1#d3e709ccba3384795c0a372ddaf6db3e3bbafa57-0#849019#null_______{"position":"3#1","picbiinfo":"1#d3e709ccba3384795c0a372ddaf6db3e3bbafa57-0#849019#null","entryinfo":"5343946#5","sourceid":"301020","sourcetype":"0","floorid":"3703"}" page_name="index" href="https://pro.m.jd.com/mall/active/46s9NeY97sZFwvirKh1w69xMJfjs/index.html?innerLink=%5B%7B%22groupId%22%3A%2201350376%22%2C%22matId%22%3A%225343946%22%2C%22matType%22%3A%220%22%7D%5D" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>美食城</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#D663E1">低至五折</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/n1/jfs/t7147/172/1648769626/403695/8c17adbc/598d1bdbN3c16d595.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="3703_0_CMSSH330800_0_838708_0_0_1____232________{"position":"3#2","sourceid":"330800","sourcetype":"0","floorid":"3703"}" page_name="index" href="https://pro.m.jd.com/mall/active/31yw4fWdU7HMFgMJKk2An5M3cggB/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>手机数码</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#D663E1">OPPO R11s</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t16375/146/772122043/15790/31db6075/5a3cd475N13aaf3ea.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="3703_0_CMSSH330313_0_838009_0_0_1____247________{"position":"3#3","sourceid":"330313","sourcetype":"0","floorid":"3703"}" page_name="index" href="https://pro.m.jd.com/mall/active/B5nbBHuCjfNkWN1nocNkawR2E8N/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>鞋靴箱包</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#D663E1">低至5折</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t14179/162/2357974034/40875/f7dbb6ad/5a3a2fbcNd991e3cf.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="    graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="3703_0_CMSSH329691_0_837052_0_0_1____292________{"position":"3#4","sourceid":"329691","sourcetype":"0","floorid":"3703"}" page_name="index" href="https://pro.m.jd.com/mall/active/3BMAd8GNfB17NakHfKJyYA96PcYY/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>小家电馆</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#D663E1">大牌直降！</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t5890/348/3683437787/20695/7719a487/5940963cN09e52a6c.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                                                                                   <div class="floor-container   ">
+                                <div class="floor-graphic-item">
+                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="3703_0_CMSSH330441_0_838208_0_0_1____237________{"position":"4#1","sourceid":"330441","sourcetype":"0","floorid":"3703"}" page_name="index" href="https://pro.m.jd.com/mall/active/4P9a2T9osR9JvtzHVaYTPvsecRtg/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>京东生鲜</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#D663E1">领券159减30</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t15451/244/843421954/39786/8c963782/5a3a5c41Nb7930165.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="3703_0_CMSSH324005_0_829275_0_0_1___1208662#2_251_1#d3e709ccba3384795c0a372ddaf6db3e3bbafa57-0#848457#null_______{"position":"4#2","picbiinfo":"1#d3e709ccba3384795c0a372ddaf6db3e3bbafa57-0#848457#null","entryinfo":"1208662#2","sourceid":"324005","sourcetype":"0","floorid":"3703"}" page_name="index" href="https://pro.m.jd.com/mall/active/387eAn8NbK2b52rdJyJSGA3xpQdT/index.html?innerLink=%5B%7B%22groupId%22%3A%2201189699%22%2C%22matId%22%3A%221208662%22%2C%22matType%22%3A%220%22%7D%5D" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>家装城</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#D663E1">家装一站购齐</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/n1/jfs/t15193/191/841866722/78156/5552a313/5a3b71f8N4e430e02.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="3703_0_CMSSH331146_0_839210_0_0_1____234________{"position":"4#3","sourceid":"331146","sourcetype":"0","floorid":"3703"}" page_name="index" href="https://pro.m.jd.com/mall/active/3u1Q7ZjCfQKrRb52c623WNf3Cjz5/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>图书音像</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#D663E1">满200减100 </p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t15673/73/819399781/26134/f08ae07d/5a3fc69aN140cf685.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="    graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="3703_0_CMSSH319352_0_822045_1_0_0__1#5288c9e5c976ee817f0d97dc483b5de0f8a40f53-0#403900#N__238________{"position":"4#4","sourceid":"319352","biinfo":"1#5288c9e5c976ee817f0d97dc483b5de0f8a40f53-0#403900#N","sourcetype":"0","floorid":"3703"}" page_name="index" href="https://pro.m.jd.com/mall/active/icTjaGCfgvk53N36uZFX7WLBoTK/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>个护清洁</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#D663E1">关晓彤的秘密</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t5131/193/590214959/19467/155e612a/5902a18eNf84157b1.png!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                                               </div>
+                                                <div  class="floor "  >                                                                                                                                                <div class="floor-item    ">
+                                <div class="container-col01  nofull-slider margin-lt-10  ">
+                                    <div id="slider_2817_1"  class="slider-wrapper" >
+                                        <ul  id="slider_2817_1_touch" class="new-slide"  data-slide-ul="firstUl" >
+                                            <li  data-ul-child="child" class="slide-li"><a  class="J_ping" report-eventlevel="1" report-eventid="MHome_BFloor"  report-eventparam="2_0_0_440278_1_{"position":"1#2","sourceid":"440278","sourcetype":"1","floorid":"2817"}" page_name="index" href='https://ccc-x.jd.com/dsp/nc?ext=aHR0cHM6Ly9zYWxlLmpkLmNvbS9tL2FjdC9SVXN1YUNIM255WEltS0Q0Lmh0bWw&log=JUHj7K56Ub6zWbMytfkdelM-Xi4k_DG5_5bfqXZIGtAgWqwJY862AhAkH32PqqJxgxnonyrHptK9QuIyf-KB2pPNXQUCPMdUfixUwtQyOsbNobE-yl6egWPAiJJiZvZM9owaTbLkKq0AJJOf_qQa67b_Fb4SNeLrOcZuUHzoHJgwyfoO05TZ8d-tZLuOGJlaJSdhTzpiuFzzgreEHPjGzeR53-9UnvdfzfafPWZOvVMQfFndC-7FUkvmMYYewNRtYGhnD0O1FGV7lmhWD5EwFl6rdZqARscCgGx-ZCQ1oKU&v=404&_=1'>
+                                                                                                    <img  src="//st.360buyimg.com/m/images/index/load/06001.png"  imgsrc="https://img1.360buyimg.com/da/jfs/t15553/101/694325567/98097/a2854298/5a3a3d9cN3609e563.jpg"/>
+                                                
+                                            </a></li>
+                                        </ul>
+                                        <div class="focus-btn"  data-small-btn="smallbtn"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                                                                                       </div>
+                                                <div  class="floor bdr-bottom "   style="margin-bottom:8px" >                                                                         <div class="floor-title floor-tit-img" data-floorName="特色推荐">
+                                                                    <span class="tit-img"><img src="https://m.360buyimg.com/mobilecms/jfs/t6001/187/8772591725/44285/dbab5007/598c3eaaNcabae5fd.jpg!q70.jpg"> </span>
+                                                            </div>
+                                                                                                                       <div class="floor-container   bdr-bottom  ">
+                                <div class="floor-graphic-item">
+                                                                                                                                                             <div class="bdr-r     graphic-separation  graphic-col02-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="4134_0_CMSSH330897_0_838830_0_1_1____225________{"position":"1#1","sourceid":"330897","sourcetype":"0","floorid":"4134"}" page_name="index" href="https://pro.m.jd.com/mall/active/4EeRq5yD6YgDYEvSbx8XdaAedSDq/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06006.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>白条商城</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#FF5959">打白条换新机 游戏办公6飞起</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img  graphic-img02 ">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t12544/114/391186564/18749/b3753acf/5a0a9668N69e5469e.jpg!q70.jpg" imgtitle="true">
+                                                                                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t12601/62/421164263/10802/3bb21d86/5a0a966cNefed378a.jpg!q70.jpg" imgtitle="true">
+                                                                                                                    </div>
+                                                                                                                    <span class="graphic-btn" data-lbcolor="#FF6E00,#FF5644,#FF4A7D">一元抢免息~<i></i></span>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                                                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="4134_0_CMSSH325063_0_830907_0_1_1____223________{"position":"1#2","sourceid":"325063","sourcetype":"0","floorid":"4134"}" page_name="index" href="https://z.m.jd.com/aggregateIndex.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>京东众筹</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#FF5959">全场5折起</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img ">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t11962/157/2713519848/26717/7b4b1b09/5a1cd6e3N9b3ceba1.jpg!q70.jpg" imgtitle="true">
+                                                                                                                    </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                                                                                                             <div class="    graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="4134_0_CMSSH330822_0_838740_0_1_1____224________{"position":"1#3","sourceid":"330822","sourcetype":"0","floorid":"4134"}" page_name="index" href="https://pro.m.jd.com/mall/active/3T5cRtbNGLCup5fWF7tMQzM9wVPa/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>京东旅行</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#FF5959">五星自助299</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img ">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t14497/40/631686097/55280/5de49883/5a335684N9edd2ffd.jpg!q70.jpg" imgtitle="true">
+                                                                                                                    </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                    </div>
+                            </div>
+
+
+                                                                                                                                                   <div class="floor-container   bdr-bottom  ">
+                                <div class="floor-graphic-item">
+                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="4134_0_CMSSH329259_0_836376_0_1_1____222________{"position":"2#1","sourceid":"329259","sourcetype":"0","floorid":"4134"}" page_name="index" href="https://pro.m.jd.com/mall/active/2RZVMrVSmpBZ9ENUZtkqj8RAwNP3/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>智能生活</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#FF5959">智能电动车</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t14596/196/135633125/61758/ccfd4b88/5a24c66cN82528948.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="4134_0_CMSSH329312_0_836442_0_1_1____230________{"position":"2#2","sourceid":"329312","sourcetype":"0","floorid":"4134"}" page_name="index" href="https://h5.m.jd.com/dev/3786r4YdgZxtkrMBpcD9c2ho1kpe/index.html#/index?entrance=app_sy_gts_a" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>陪伴宝宝</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#FF5959">特价9.9</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t13777/256/1629584741/96411/eb4b9d74/5a24b6b1Ne1f24ebe.png!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                                    <span class="graphic-btn" data-lbcolor="#FF6E00,#FF5644,#FF4A7D">1元抢<i></i></span>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="4134_0_CMSSH326741_0_833125_0_1_1____267________{"position":"2#3","sourceid":"326741","sourcetype":"0","floorid":"4134"}" page_name="index" href="https://pro.m.jd.com/mall/active/37vVZX7avfn8oa3XUmJMsufmvJqT/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>特产·扶贫</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#FF5959">网红柿饼上市</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t13936/133/2161757944/22640/354220dd/5a38eba2N560e3a07.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="    graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="4134_0_CMSSH329479_0_836737_0_1_1____226________{"position":"2#4","sourceid":"329479","sourcetype":"0","floorid":"4134"}" page_name="index" href="https://pro.m.jd.com/mall/active/dj6us2JJRLMMBb4iDaSK4wxvBMt/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>爱车生活</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#FF5959">车品99减20</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t13990/280/1997412253/32945/6767ac69/5a2dec3cN7c4f88c7.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                                    <span class="graphic-btn" data-lbcolor="#FF6E00,#FF5644,#FF4A7D">周年庆<i></i></span>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                                                                                   <div class="floor-container   ">
+                                <div class="floor-graphic-item">
+                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="4134_0_CMSSH329751_0_837159_0_1_1____229________{"position":"3#1","sourceid":"329751","sourcetype":"0","floorid":"4134"}" page_name="index" href="https://pro.m.jd.com/mall/active/2btYJRGQbBERp23M6aXGwm1tve3X/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>大药房</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#FF5959">爱她保护她</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t15034/359/669720753/52766/b73f287d/5a33ab08Ncfd6914c.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="4134_0_CMSSH329921_0_837447_0_1_1____220________{"position":"3#2","sourceid":"329921","sourcetype":"0","floorid":"4134"}" page_name="index" href="https://pro.m.jd.com/mall/active/4VVhmQT7vbXScFJ89ALyUippzkw6/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>设计师</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#FF5959">潮流设计精选</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t13876/176/1380737750/37502/9fec2129/5a1f71e2N41132782.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="bdr-r     graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="4134_0_CMSSH307160_0_805059_0_1_1____282________{"position":"3#3","sourceid":"307160","sourcetype":"0","floorid":"4134"}" page_name="index" href="https://realestate.m.jd.com" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>京东房产</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#FF5959">特惠房源</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t10960/216/2120183203/86058/dd67b3d2/59ef0e37N1eae6d05.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                             <div class="    graphic-separation  graphic-col04-bg">
+                                            <a report-eventid="MHome_BFloor" report-eventlevel="1" report-eventparam="4134_0_CMSSH330881_0_838801_0_1_1____227________{"position":"3#4","sourceid":"330881","sourcetype":"0","floorid":"4134"}" page_name="index" href="https://pro.m.jd.com/mall/active/2i1YcEh4r9LhxVeQai9BfuLqMaL7/index.html" class="J_ping">
+                                                <img class="space-img" src ="//st.360buyimg.com/m/images/index/load/06013.png">
+                                                                                                    <div class="real-show">
+                                                        <div class="graphic-text" >
+                                                            <strong class="graphic-tit" data-titcolor='#000000'>生活娱乐</strong>
+                                                                                                                            <p class="graphic-wz"                                                                    style="color:#FF5959">秀颜值赢免票</p>
+                                                            
+                                                        </div>
+                                                        <div class="graphic-img">
+                                                            <img  src="//st.360buyimg.com/m/images/index/load/bg01.gif"  imgsrc="https://m.360buyimg.com/mobilecms/s240x240_jfs/t14782/38/622170894/52476/62e16c8f/5a335466Naef03cc7.jpg!q70.jpg" imgtitle="true">
+                                                        </div>
+                                                                                                                    <span class="graphic-btn" data-lbcolor="#FF6E00,#FF5644,#FF4A7D">妖猫传<i></i></span>
+                                                                                                            </div>
+                                                                                            </a>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                                               </div>
+                                                <div  class="floor "  >                                                                                                                                                <div class="floor-item    ">
+                                <div class="container-col01  nofull-slider margin-lt-10  ">
+                                    <div id="slider_2827_1"  class="slider-wrapper" >
+                                        <ul  id="slider_2827_1_touch" class="new-slide"  data-slide-ul="firstUl" >
+                                            <li  data-ul-child="child" class="slide-li"><a  class="J_ping" report-eventlevel="1" report-eventid="MHome_BFloor"  report-eventparam="2827_0_CMSSH331116_0_839180_0_1_1____________{"position":"1#1","sourceid":"331116","sourcetype":"0","floorid":"2827"}" page_name="index" href='https://daojia.jd.com/html/index.html?channel=jdapp_bdtl'>
+                                                                                                    <img  src="//st.360buyimg.com/m/images/index/load/06001.png"  imgsrc="https://m.360buyimg.com/mobilecms/jfs/t14254/207/946425990/92361/eff4ca8f/5a3dc70fN0b8dc980.jpg!q70.jpg"/>
+                                                
+                                            </a></li>
+                                        </ul>
+                                        <div class="focus-btn"  data-small-btn="smallbtn"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                                                                                       </div>
+                        
+
+
+</div>
+<div id="botRecommend" class="botRecommend"></div>
+
+
+
+         
+
+
+
+        
+
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <footer class="jd-footer">
+            <div class="jd-1px-line-up"></div>
+            <ul class="jd-footer-links">
+                                    <li class=""><a rel="nofollow" class="J_ping" report-eventid="MCommonHTail_Login"  report-eventparam="" page_name="index" href="https://passport.m.jd.com/user/login.action?sid=6a5be4a10db747ee952c40a17e976c4b">登录</a></li>
+                    <li><a rel="nofollow" class="J_ping" report-eventid="MCommonHTail_Register"  report-eventparam="" page_name="index" href="https://passport.m.jd.com/user/mobileRegister.action?v=t&sid=6a5be4a10db747ee952c40a17e976c4b">注册</a></li>
+                                        <li><a rel="nofollow" class="J_ping" report-eventid="MCommonHTail_Feedback"  report-eventparam="" page_name="index" href="/showvote.html?sid=6a5be4a10db747ee952c40a17e976c4b">反馈</a></li>
+                        <li><a class="J_ping" report-eventid="MCommonHTail_ToTop"  report-eventparam="" page_name="index" href="javascript:void(0)" onclick="window.scrollTo(0,0);">回到顶部</a></li>
+            </ul>
+            <div class="jd-1px-line-up"></div>
+            <ul class="jd-footer-platforms">
+                <li class="jd-footer-icon-apps"><a class="badge J_ping" report-eventid="MCommonHTail_ClientApp"  report-eventparam="" page_name="index" href="//h5.m.jd.com/active/download/download.html?channel=jd-m&sid=6a5be4a10db747ee952c40a17e976c4b">客户端</a></li>
+                <li class="jd-footer-icon-touchscreen current"><a class="J_ping" report-eventid="MCommonHTail_TouchEdition"  report-eventparam="" page_name="index" href="javascript:void(0)">触屏版</a></li>
+                <li class="jd-footer-icon-pc"><a id="layout_toPcHome" class="J_ping" report-eventid="MCommonHTail_PCEdition"  report-eventparam="" page_name="index" href="javascript:void(0);">电脑版</a></li>
+            </ul>
+            <div class="jd-1px-line-up"></div>
+            <div class="jd-footer-copyright">Copyright &copy; 2004-2017 京东JD.com 版权所有</div>
+            <div class="jd-footer-copyright-footer"></div>
+        </footer>
+    </div>
+                <div search_land_searchTransformation_show="true" style="display:none;">
+    </div>
+        <div id="fixedtop" class="showfixedtop"  search_land_searchtransformation_show="true">
+    <a id="layout_top" name="top"></a>
+
+    <div id="index_search_main"  search_land_searchtransformation_show="true" class="jd-header-home-wrapper">
+        <div class="jd-search-container on-blur" id="index_search_head">
+            <div class="jd-search-box-cover"></div>
+            <div class="jd-search-box">
+                <div class= "jd-search-tb">
+                    <div class="jd-search-icon">
+
+                        <span id="index_search_bar_cancel"  class="jd-search-icon-back"><i class="jd-sprite-icon"></i></span>
+                    </div>
+                    <form action="/ware/search.action" id="index_searchForm" class="jd-search-form">
+                        <div id="jdSearchBarWrapper">
+                            <div class="jd-search-form-box cf">
+                                <span class="jd-search-icon-logo J_ping"   report-eventid="MHome_Blogo"  report-eventparam="" report-eventlevel="1"  page_name="index"></span>
+                                <span class="jd-search-form-icon"></span>
+                                <div class="jd-search-form-input">
+                                    <input type="hidden" id="sid" name="sid" value="6a5be4a10db747ee952c40a17e976c4b">
+                                    <input type="text" maxlength="20" autocomplete="off" id="index_newkeyword" name="keyword" value="" placeholder="无线鼠标"  class="hilight1">
+                                    <input id="index_category" name="catelogyList" type="text" style="display:none">
+                                </div>
+
+                                <a href="javascript:void(0);" class="jd-search-icon-close jd-sprite-icon" id="index_clear_keyword"></a>
+                                <a href="javascript:void(0)" id="index_search_submit" class="jd-search-form-action-new" data-txt="搜索">
+                                </a>
+
+                            </div>
+                        </div>
+                    </form>
+                                            <div class="jd-search-login login-ing" >
+                            <a id = "index_searchLogin" href="https://passport.m.jd.com/user/login.action?returnurl=https://m.jd.com?indexloc=1" class="J_ping" page_name="index"   report-eventlevel="1"  report-eventparam="" report-eventid="MHome_BLogin">
+                                <span class="jd-search-icon-login">登录</span></a>
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    window.__SPD_AUTO=true;
+</script>
+<script>window.athenaFdSetting={switch:1,pidWhitelist:''};</script>
+            <script type="text/javascript" defer="defer" src="//wq.360buyimg.com/js/version/201706/spdtimming.new.201710261058.js"></script>
+    
+<script>
+    window.addEventListener("load",function(){
+        window._PFM_TIMING[6]=new Date();
+    },false);
+</script>
+</body>
+        <script>
+        rTimeArr[3]["time"] = new Date();
+        rTimeArr[4] ={sTime:new Date()};
+    </script>
+
+    <script src="//st.360buyimg.com/m/js/2014/base/JdBase66.min.js?v=jd201712220019" type="text/javascript" ></script>
+
+
+                
+        
+
+    <script type="text/javascript">
+        var jsArgs = {};
+                                            jsArgs['index'] = {sliderImgList:[{"action":"https://pro.m.jd.com/mall/active/mPmu1FKkK8TYzPsJrB6eNzgst4y/index.html","activityId":"90281","exposalUrl":"","horizontalImag":"https://m.360buyimg.com/mobilecms/s1125x549_jfs/t15769/234/592356785/192742/56a05122/5a376289N4e74f201.jpg!q70.jpg","jump":{"des":"m","params":{"url":"https://pro.m.jd.com/mall/active/mPmu1FKkK8TYzPsJrB6eNzgst4y/index.html"},"srv":"C_5_0_90281_"},"sortno":1,"sourceValue":"C_5_0_90281_","type":0,"wareDisplayType":0},{"action":"https://ccc-x.jd.com/dsp/nc?ext=aHR0cHM6Ly9zYWxlLmpkLmNvbS9tL2FjdC9RNVMzdUhSNExwckVlNmd2Lmh0bWw&log=JUHj7K56Ub6zWbMytfkdelM-Xi4k_DG5_5bfqXZIGtCZagDQo-8g6RS60P_mSRr0NOgxjqAuBfss_UROQmu3KdivDaITL4Mwj_-ElcZVP5Ro9AqZo2YFDuevfSvxetTIMWHNfOJ1YsZOUhPly6LsQq0qBfaT5SZdpNGebLQ4S86Dcf2-HcIGHqUiIQmLSdutLng2RWBtEUeBgHOnUZ_VVazFBIEzVBnOlbN6jz7F0b6Cf0FFUFgbadfA99uZbzVjcV0hoTYOHKcVLgoJfkTsAa68T0RHjo1MGBeqMCyIKsR6FgMy-Xqe9PwLyq7LgmDBxHEdhKcxMzKZbchXg7p3o961seMtrHva10gmfgYGzGmOrGDEi54QnqiIDlSalbDhDhcHQWIVbmlN3HPn4p11iQ&v=404&_=1","activityId":"0","exposalUrl":"https://im-x.jd.com/dsp/np?log=JUHj7K56Ub6zWbMytfkdelM-Xi4k_DG5_5bfqXZIGtCZagDQo-8g6RS60P_mSRr0NOgxjqAuBfss_UROQmu3KdivDaITL4Mwj_-ElcZVP5Ro9AqZo2YFDuevfSvxetTIMWHNfOJ1YsZOUhPly6LsQq0qBfaT5SZdpNGebLQ4S86Dcf2-HcIGHqUiIQmLSdutaZ9C_BQZYq6xYJIzIg_pafv19ORSkrYHReLyBXroEuFYTWazKf-d8rU6-yCoVP0Em2F0iCPOQZqbQoynvtqFxT39dH4g1Gqn4R31mqFG5VWynKG7EuiS2wRVbUD8idhHazzFs-_EG7GxFtFdlrHtB4ecg59QjPxSgarIHsAjjZGAJfmjc5mbQGBf0WYwUq90bHZPcWS9fWqhFUHFaS3rsA~~&v=404","horizontalImag":"https://img1.360buyimg.com/da/jfs/t15604/23/845004914/389947/82d25e62/5a4061d2N787b4917.jpg","jump":{"des":"m","params":{"url":"https://ccc-x.jd.com/dsp/nc?ext=aHR0cHM6Ly9zYWxlLmpkLmNvbS9tL2FjdC9RNVMzdUhSNExwckVlNmd2Lmh0bWw&log=JUHj7K56Ub6zWbMytfkdelM-Xi4k_DG5_5bfqXZIGtCZagDQo-8g6RS60P_mSRr0NOgxjqAuBfss_UROQmu3KdivDaITL4Mwj_-ElcZVP5Ro9AqZo2YFDuevfSvxetTIMWHNfOJ1YsZOUhPly6LsQq0qBfaT5SZdpNGebLQ4S86Dcf2-HcIGHqUiIQmLSdutLng2RWBtEUeBgHOnUZ_VVazFBIEzVBnOlbN6jz7F0b6Cf0FFUFgbadfA99uZbzVjcV0hoTYOHKcVLgoJfkTsAa68T0RHjo1MGBeqMCyIKsR6FgMy-Xqe9PwLyq7LgmDBxHEdhKcxMzKZbchXg7p3o961seMtrHva10gmfgYGzGmOrGDEi54QnqiIDlSalbDhDhcHQWIVbmlN3HPn4p11iQ&v=404&_=1"},"srv":"A_5_1_183491814_"},"sortno":2,"sourceValue":"A_5_1_183491814_","type":0,"wareDisplayType":0},{"action":"https://ccc-x.jd.com/dsp/nc?ext=aHR0cHM6Ly9zYWxlLmpkLmNvbS9tL2FjdC9PRnRsTVMzS3NnLmh0bWw&log=JUHj7K56Ub6zWbMytfkdelM-Xi4k_DG5_5bfqXZIGtCQz4e1JFlheAaRObVSWnvIP3G37jZqb3JLtqaFsfokpd7xJ1DQwHc4IUq-fjgnmV_CySG4KL8_TSIe44VuQ_Y7MvzlUoz8EtLLexd40-DzsDCfXgq95MNXAUOM56jBSVk8XVFw9Rpws7DM5OYI3kuFfQ1oAPc9pw1bqEN_SzR6UFipyaOXo3mp9ov1bPdHpPzkqHMKVP4y19pB-cmXV1czSoD5s_RFvCZ6dqTP0b3CIpG7ycqCbFaasEYbXWsry0I&v=404&_=1","activityId":"0","exposalUrl":"https://im-x.jd.com/dsp/np?log=JUHj7K56Ub6zWbMytfkdelM+Xi4k/DG5/5bfqXZIGtDwfWZwf3p+BKdkjjglKZX4/XafprA7jw3akpcL6aLO/mYS5O/B8h405tlcCUdUUDuUXV8Yhd6KZGgJ3Y5DPNGQxy+GBx/rkAbSOpc+hS7No8TXfEOHXXaj/glJ+aGAxTCjAEWkiWxjgDncm8pX9g+AchHDoVjEQUsJCL22V0WS54lLSjJsotWS/nAq/thJmO+y+reMATb9dEcSJ25w55aYqCoMvXaGqGoaw8QN7iSd1chaOv1yL8wYe0p9avlpArVISJ84Z0y6buz5XnpKQwhX&v=404","horizontalImag":"https://img1.360buyimg.com/da/jfs/t14656/115/877905033/88437/33644726/5a3c6b32Nf7b20af1.jpg","jump":{"des":"m","params":{"url":"https://ccc-x.jd.com/dsp/nc?ext=aHR0cHM6Ly9zYWxlLmpkLmNvbS9tL2FjdC9PRnRsTVMzS3NnLmh0bWw&log=JUHj7K56Ub6zWbMytfkdelM-Xi4k_DG5_5bfqXZIGtCQz4e1JFlheAaRObVSWnvIP3G37jZqb3JLtqaFsfokpd7xJ1DQwHc4IUq-fjgnmV_CySG4KL8_TSIe44VuQ_Y7MvzlUoz8EtLLexd40-DzsDCfXgq95MNXAUOM56jBSVk8XVFw9Rpws7DM5OYI3kuFfQ1oAPc9pw1bqEN_SzR6UFipyaOXo3mp9ov1bPdHpPzkqHMKVP4y19pB-cmXV1czSoD5s_RFvCZ6dqTP0b3CIpG7ycqCbFaasEYbXWsry0I&v=404&_=1"},"srv":"A_5_2_440729_"},"sortno":3,"sourceValue":"A_5_2_440729_","type":0,"wareDisplayType":0},{"action":"https://pro.m.jd.com/mall/active/2wum3n7PLcgZu1zYTv87AMF2rA4U/index.html","activityId":"90356","exposalUrl":"","horizontalImag":"https://m.360buyimg.com/mobilecms/s1125x549_jfs/t13945/271/2190854675/198892/d48d70ad/5a38cea4N2079e7c8.jpg!q70.jpg","jump":{"des":"m","params":{"url":"https://pro.m.jd.com/mall/active/2wum3n7PLcgZu1zYTv87AMF2rA4U/index.html"},"srv":"C_5_3_90356_"},"sortno":4,"sourceValue":"C_5_3_90356_","type":0,"wareDisplayType":0},{"action":"https://ccc-x.jd.com/dsp/nc?ext=aHR0cHM6Ly9zYWxlLmpkLmNvbS9tL2FjdC96bGE0dWVqbWNJNy5odG1s&log=JUHj7K56Ub6zWbMytfkdelM-Xi4k_DG5_5bfqXZIGtD0NqKy2ulCkz4XIVpvbxkXj1nboiNUeSxxzTCqgQTSKFXMOxqm5Q3ab2bYDGsbtKAK2P1TgS04QV5u_P55bYyur9k_d86vp8jDeE43DzRLsuojkK_dgmmOvrcfH4ePQYzhHWzvob3LfBISnuLuFpQthT9o2zkUGZTsaZyTpWIAheCVkMu6K5TnA3fLEE1he7FGC_KNB0Dn3Lev2Wvck3so5vqgc1Q-H1SPBF1ZNbQNXQ&v=404&_=1","activityId":"0","exposalUrl":"https://im-x.jd.com/dsp/np?log=JUHj7K56Ub6zWbMytfkdelM+Xi4k/DG5/5bfqXZIGtA6DvOQxF5OUynhsseXVyyVB3WXO6zm3t+qfDgaAg2BIDgXaJxNyDgDHYgFgzRblEy8j1mRw+yKaQWIX6FgtJ+D9VwvGLxp7U+gCGlJuu8m+wlmIkTu4pZl883u6J+sRC3+WdkYiQ+CjqqyVNVuJikhIIjzh5+cwLEZyaHw4kPe+AnHvYnjhNIpmFbXnhs0SGZeKEaoM06/jbUPxp8tc1LwQGTuedpI0M3gOANfUAtbm/xWLc+8X2ZW/sqfh/18jXJEC+JNCBTCmFAtqZFq+/5f&v=404","horizontalImag":"https://img1.360buyimg.com/da/jfs/t12886/353/2335352612/139810/2133b076/5a3b55dbN9112cfbb.jpg","jump":{"des":"m","params":{"url":"https://ccc-x.jd.com/dsp/nc?ext=aHR0cHM6Ly9zYWxlLmpkLmNvbS9tL2FjdC96bGE0dWVqbWNJNy5odG1s&log=JUHj7K56Ub6zWbMytfkdelM-Xi4k_DG5_5bfqXZIGtD0NqKy2ulCkz4XIVpvbxkXj1nboiNUeSxxzTCqgQTSKFXMOxqm5Q3ab2bYDGsbtKAK2P1TgS04QV5u_P55bYyur9k_d86vp8jDeE43DzRLsuojkK_dgmmOvrcfH4ePQYzhHWzvob3LfBISnuLuFpQthT9o2zkUGZTsaZyTpWIAheCVkMu6K5TnA3fLEE1he7FGC_KNB0Dn3Lev2Wvck3so5vqgc1Q-H1SPBF1ZNbQNXQ&v=404&_=1"},"srv":"A_5_4_440605_"},"sortno":5,"sourceValue":"A_5_4_440605_","type":0,"wareDisplayType":0},{"action":"https://pro.m.jd.com/mall/active/3444RjiecwWGRPbNywxZNKvYAQWv/index.html","activityId":"90350","exposalUrl":"","horizontalImag":"https://m.360buyimg.com/mobilecms/s1125x549_jfs/t12166/137/2326477782/166841/54b66884/5a39be8fN356b28c6.jpg!q70.jpg","jump":{"des":"m","params":{"url":"https://pro.m.jd.com/mall/active/3444RjiecwWGRPbNywxZNKvYAQWv/index.html"},"srv":"C_5_5_90350_1#d84dcf89351e927bbad3d5a09c38d2632fa8a820-0#205220#0#N"},"sortno":6,"sourceValue":"C_5_5_90350_1#d84dcf89351e927bbad3d5a09c38d2632fa8a820-0#205220#0#N","type":0,"wareDisplayType":0},{"action":"https://pro.m.jd.com/mall/active/TbfTNMkrnkzcPBcKFPjNShFPGE6/index.html","activityId":"90151","exposalUrl":"","horizontalImag":"https://m.360buyimg.com/mobilecms/s1125x549_jfs/t13027/236/2108957746/125978/9540d7dd/5a323abeNe721d51f.jpg!q70.jpg","jump":{"des":"m","params":{"url":"https://pro.m.jd.com/mall/active/TbfTNMkrnkzcPBcKFPjNShFPGE6/index.html"},"srv":"C_5_6_90151_1#d84dcf89351e927bbad3d5a09c38d2632fa8a820-0#205220#1#N"},"sortno":7,"sourceValue":"C_5_6_90151_1#d84dcf89351e927bbad3d5a09c38d2632fa8a820-0#205220#1#N","type":0,"wareDisplayType":0},{"action":"https://pro.m.jd.com/mall/active/BTdtcjFwqmofEDWEMaPLnamkNcH/index.html","activityId":"90577","exposalUrl":"","horizontalImag":"https://m.360buyimg.com/mobilecms/s1125x549_jfs/t12055/353/2310709843/134607/1d95e3c2/5a3b8041Nc1c3628f.jpg!q70.jpg","jump":{"des":"m","params":{"url":"https://pro.m.jd.com/mall/active/BTdtcjFwqmofEDWEMaPLnamkNcH/index.html"},"srv":"C_5_7_90577_1#d84dcf89351e927bbad3d5a09c38d2632fa8a820-0#205220#2#N"},"sortno":8,"sourceValue":"C_5_7_90577_1#d84dcf89351e927bbad3d5a09c38d2632fa8a820-0#205220#2#N","type":0,"wareDisplayType":0}],hybridslider:[{"no":1,"sliderlist":[{"content":{},"id":"330276","imageType":0,"img":"https://m.360buyimg.com/mobilecms/jfs/t16411/38/691446762/184341/a377158f/5a3a2a9bN67c638a6.gif","innerborder":false,"isDefaultBorderColor":false,"jump":{"des":"m","params":{"url":"https://pro.m.jd.com/mall/active/mPmu1FKkK8TYzPsJrB6eNzgst4y/index.html"},"srv":"3363_0_CMSSH330276_0_837970_0_1_1____________{\"position\":\"1#1\",\"sourceid\":\"330276\",\"sourcetype\":\"0\",\"floorid\":\"3363\"}"},"labelColor":"","maintitleColor":"#000000","moduleBgColor":"#FFFFFF","moduleTitleColor":"","rightCorner":"","showName":"圣诞会场","sourceValue":"3363_0_CMSSH330276_0_837970_0_1_1____________{\"position\":\"1#1\",\"sourceid\":\"330276\",\"sourcetype\":\"0\",\"floorid\":\"3363\"}","status":0,"subtitle":"","subtitleColor":"#000000","url":"https://pro.m.jd.com/mall/active/mPmu1FKkK8TYzPsJrB6eNzgst4y/index.html"}],"floorid":"3363"},{"no":1,"sliderlist":[{"content":{},"id":"331142","imageType":0,"img":"https://m.360buyimg.com/mobilecms/jfs/t14515/74/885888579/160443/68f8957f/5a3cec30N9fe03b09.jpg!q70.jpg","innerborder":false,"isDefaultBorderColor":false,"jump":{"des":"m","params":{"url":"https://pro.m.jd.com/mall/active/2L8XQg82k15Lvd54T3RddPvUgcaF/index.html"},"srv":"2892_0_CMSSH331142_0_839206_0_1_1____________{\"position\":\"1#1\",\"sourceid\":\"331142\",\"sourcetype\":\"0\",\"floorid\":\"2892\"}"},"labelColor":"","maintitleColor":"#000000","moduleBgColor":"#FFFFFF","moduleTitleColor":"","rightCorner":"","showName":"美迪惠尔","sourceValue":"2892_0_CMSSH331142_0_839206_0_1_1____________{\"position\":\"1#1\",\"sourceid\":\"331142\",\"sourcetype\":\"0\",\"floorid\":\"2892\"}","status":0,"subtitle":"","subtitleColor":"#000000","url":"https://pro.m.jd.com/mall/active/2L8XQg82k15Lvd54T3RddPvUgcaF/index.html"},{"content":{},"exposalUrl":"https://im-x.jd.com/dsp/np?log=JUHj7K56Ub6zWbMytfkdelM+Xi4k/DG5/5bfqXZIGtCqDdntUIDkoGxYMxG+V+Ka5pp9rTSkXtcS0gH4z8xBBc+TQA+NwnAonUQ0naQXQpBSyw3RH3gHtQPkdgE+dzY3fot81c9OgxDz3028nN+zh8Uoxxuw7l2AfNiuhjQP9ILGC1GKUyR/ypoDJiwEqkdTU2r/VBKpX3AaZF7t1MVlCVhlxYJdYD89HbiwJhaTbN3FpGXUDEAF5YFVJSlLXLe/CwWhyo9CzLgafGNMHLWkit6U7uqr8SQbV9hqvIGNdDt502aY4HD0vDi1nchSpu+ZcVOs1EmYIpLKn5dXmkXniw==&v=404","id":"252722","imageType":0,"img":"https://img14.360buyimg.com/da/jfs/t4711/27/2284172010/188445/d8ba2942/58edce1dN5d755faa.jpg","innerborder":false,"isDefaultBorderColor":false,"jump":{"des":"m","params":{"url":"https://ccc-x.jd.com/dsp/nc?ext=aHR0cHM6Ly9wcm8ubS5qZC5jb20vbWFsbC9hY3RpdmUvMlJaVk1yVlNtcEJaOUVOVVp0a3FqOFJBd05QMy9pbmRleC5odG1s&log=JUHj7K56Ub6zWbMytfkdelM-Xi4k_DG5_5bfqXZIGtBfUxVinTf6-rP0XYdEhcyJfO2wIo5u0Ujw3lTNsx6YrJwkP2LuJwID61D_w0-VEqyaff4jEkx_OQ1N7mlNVG0uXVGRNSOZbKxyreggTs8UHmYJ3sEDHrFEQOwfyJN3Ktwwjatn91CiRmkP3ojEGa9v1jUWCeYfRsiyOACYDwN2WRL3XunzR9zKvb0OUcsazlk4D1i9NSdRnK4LCFcvWf1SLtLoeETsTSWjkRCojdLb1NgDsyqgip7JaozF_C6LwYA&v=404&_=1"},"srv":"2_0_0_291498_1_{\"position\":\"1#2\",\"sourceid\":\"291498\",\"sourcetype\":\"1\",\"floorid\":\"2892\"}"},"labelColor":"","maintitleColor":"#000000","moduleBgColor":"#FFFFFF","moduleTitleColor":"#000000","rightCorner":"","showName":"促销活动","sourceValue":"2_0_0_291498_1_{\"position\":\"1#2\",\"sourceid\":\"291498\",\"sourcetype\":\"1\",\"floorid\":\"2892\"}","status":0,"subtitle":"","subtitleColor":"#000000","url":"https://ccc-x.jd.com/dsp/nc?ext=aHR0cHM6Ly9wcm8ubS5qZC5jb20vbWFsbC9hY3RpdmUvMlJaVk1yVlNtcEJaOUVOVVp0a3FqOFJBd05QMy9pbmRleC5odG1s&log=JUHj7K56Ub6zWbMytfkdelM-Xi4k_DG5_5bfqXZIGtBfUxVinTf6-rP0XYdEhcyJfO2wIo5u0Ujw3lTNsx6YrJwkP2LuJwID61D_w0-VEqyaff4jEkx_OQ1N7mlNVG0uXVGRNSOZbKxyreggTs8UHmYJ3sEDHrFEQOwfyJN3Ktwwjatn91CiRmkP3ojEGa9v1jUWCeYfRsiyOACYDwN2WRL3XunzR9zKvb0OUcsazlk4D1i9NSdRnK4LCFcvWf1SLtLoeETsTSWjkRCojdLb1NgDsyqgip7JaozF_C6LwYA&v=404&_=1"}],"floorid":"2892"},{"no":1,"sliderlist":[{"content":{},"exposalUrl":"https://im-x.jd.com/dsp/np?log=JUHj7K56Ub6zWbMytfkdelM+Xi4k/DG5/5bfqXZIGtCo1aBjLkVIlFXcgQ1Vanh5AUOiYqJwT84DoV6f0XYiRwx4xWXRDaZhAtqyjDr66LgFNBDNoHsIchEV1vzNXgH4OohUPUfSJ6B9FZe3oZSrgfnD+ega0vcNlboe8i3RT3cGPWgNQd/5DzjKPpz4YVIsxbzdPfhlv/iGjg8+UFFoTA6d0ZF5Nntqmysx/B1EzvTtNywEEL5zC/DUcPG9PVernejtg0KqmKHpvOxcYlIY4JK9+iU3JTAutGLXLZ4BG8jXc1ZW4EpP789G8pK96h+6&v=404","id":"216221","imageType":0,"img":"https://img1.360buyimg.com/da/jfs/t15553/101/694325567/98097/a2854298/5a3a3d9cN3609e563.jpg","innerborder":false,"isDefaultBorderColor":false,"jump":{"des":"m","params":{"url":"https://ccc-x.jd.com/dsp/nc?ext=aHR0cHM6Ly9zYWxlLmpkLmNvbS9tL2FjdC9SVXN1YUNIM255WEltS0Q0Lmh0bWw&log=JUHj7K56Ub6zWbMytfkdelM-Xi4k_DG5_5bfqXZIGtAgWqwJY862AhAkH32PqqJxgxnonyrHptK9QuIyf-KB2pPNXQUCPMdUfixUwtQyOsbNobE-yl6egWPAiJJiZvZM9owaTbLkKq0AJJOf_qQa67b_Fb4SNeLrOcZuUHzoHJgwyfoO05TZ8d-tZLuOGJlaJSdhTzpiuFzzgreEHPjGzeR53-9UnvdfzfafPWZOvVMQfFndC-7FUkvmMYYewNRtYGhnD0O1FGV7lmhWD5EwFl6rdZqARscCgGx-ZCQ1oKU&v=404&_=1"},"srv":"2_0_0_440278_1_{\"position\":\"1#2\",\"sourceid\":\"440278\",\"sourcetype\":\"1\",\"floorid\":\"2817\"}"},"labelColor":"","maintitleColor":"#000000","moduleBgColor":"#FFFFFF","moduleTitleColor":"#000000","rightCorner":"","showName":"促销活动","sourceValue":"2_0_0_440278_1_{\"position\":\"1#2\",\"sourceid\":\"440278\",\"sourcetype\":\"1\",\"floorid\":\"2817\"}","status":0,"subtitle":"","subtitleColor":"#000000","url":"https://ccc-x.jd.com/dsp/nc?ext=aHR0cHM6Ly9zYWxlLmpkLmNvbS9tL2FjdC9SVXN1YUNIM255WEltS0Q0Lmh0bWw&log=JUHj7K56Ub6zWbMytfkdelM-Xi4k_DG5_5bfqXZIGtAgWqwJY862AhAkH32PqqJxgxnonyrHptK9QuIyf-KB2pPNXQUCPMdUfixUwtQyOsbNobE-yl6egWPAiJJiZvZM9owaTbLkKq0AJJOf_qQa67b_Fb4SNeLrOcZuUHzoHJgwyfoO05TZ8d-tZLuOGJlaJSdhTzpiuFzzgreEHPjGzeR53-9UnvdfzfafPWZOvVMQfFndC-7FUkvmMYYewNRtYGhnD0O1FGV7lmhWD5EwFl6rdZqARscCgGx-ZCQ1oKU&v=404&_=1"}],"floorid":"2817"},{"no":1,"sliderlist":[{"content":{},"id":"331116","imageType":0,"img":"https://m.360buyimg.com/mobilecms/jfs/t14254/207/946425990/92361/eff4ca8f/5a3dc70fN0b8dc980.jpg!q70.jpg","innerborder":false,"isDefaultBorderColor":false,"jump":{"des":"m","params":{"url":"https://daojia.jd.com/html/index.html?channel=jdapp_bdtl"},"srv":"2827_0_CMSSH331116_0_839180_0_1_1____________{\"position\":\"1#1\",\"sourceid\":\"331116\",\"sourcetype\":\"0\",\"floorid\":\"2827\"}"},"labelColor":"","maintitleColor":"#000000","moduleBgColor":"#FFFFFF","moduleTitleColor":"#000000","rightCorner":"","showName":"京东到家","sourceValue":"2827_0_CMSSH331116_0_839180_0_1_1____________{\"position\":\"1#1\",\"sourceid\":\"331116\",\"sourcetype\":\"0\",\"floorid\":\"2827\"}","status":0,"subtitle":"","subtitleColor":"#000000","url":"https://daojia.jd.com/html/index.html?channel=jdapp_bdtl"}],"floorid":"2827"}],seckill : {seckillTime : '2017-12-25 12:00:00', timeRemain : 3826},seckillImgList:[{"book":false,"colorRGB":"#F0D288","imageurl":"https://m.360buyimg.com/mobilecms/s220x220_jfs/t10852/69/1019216077/418065/f937865f/59db1f8cN93efed0c.jpg!q70.jpg","jdPrice":"1699","miaoShaPrice":"1499","sourceValue":"34_1_4611409_0_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0","tagCount":0,"tagText":"","tagType":0,"wareId":"4611409"},{"book":false,"colorRGB":"#F0D288","imageurl":"https://m.360buyimg.com/mobilecms/s220x220_jfs/t12439/179/897900885/159347/6c46c9f2/5a1699ddNdee82723.jpg!q70.jpg","jdPrice":"52.9","miaoShaPrice":"24.9","sourceValue":"34_1_5590750_1_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0","tagCount":0,"tagText":"","tagType":0,"wareId":"5590750"},{"book":false,"colorRGB":"#F0D288","imageurl":"https://m.360buyimg.com/mobilecms/s220x220_jfs/t16489/312/674795688/129175/87979bd7/5a39caceN8d9c12b8.jpg!q70.jpg","jdPrice":"180","miaoShaPrice":"78","sourceValue":"34_1_10061035713_2_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0","tagCount":0,"tagText":"","tagType":0,"wareId":"10061035713"},{"book":false,"colorRGB":"#F0D288","imageurl":"https://m.360buyimg.com/mobilecms/s220x220_jfs/t9751/18/332152129/67998/3cef982f/59cc62ccN582dbd8a.jpg!q70.jpg","jdPrice":"3288","miaoShaPrice":"2888","sourceValue":"34_1_1892019_3_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0","tagCount":0,"tagText":"","tagType":0,"wareId":"1892019"},{"book":false,"colorRGB":"#F0D288","imageurl":"https://m.360buyimg.com/mobilecms/s220x220_jfs/t3148/200/6048806568/74032/ffda26b2/589c25dbN20d2197e.jpg!q70.jpg","jdPrice":"229","miaoShaPrice":"209","sourceValue":"34_1_4391570_4_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0","tagCount":0,"tagText":"","tagType":0,"wareId":"4391570"},{"book":false,"colorRGB":"#F0D288","imageurl":"https://m.360buyimg.com/mobilecms/s220x220_jfs/t8989/68/472741290/617241/743a3f89/59a8af05Ned86eb1b.jpg!q70.jpg","jdPrice":"49.9","miaoShaPrice":"35","sourceValue":"34_1_4643844_5_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0","tagCount":0,"tagText":"","tagType":0,"wareId":"4643844"},{"book":false,"colorRGB":"#F0D288","imageurl":"https://m.360buyimg.com/mobilecms/s220x220_jfs/t13900/254/2062105305/76193/e168a6fb/5a30dc1aN52721cf8.jpg!q70.jpg","jdPrice":"2898","miaoShaPrice":"1798","sourceValue":"34_1_4876809_6_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0","tagCount":0,"tagText":"","tagType":0,"wareId":"4876809"},{"book":false,"colorRGB":"#F0D288","imageurl":"https://m.360buyimg.com/mobilecms/s220x220_jfs/t11887/358/430269426/148497/223e8e9/59f04f3aNb3c810fa.jpg!q70.jpg","jdPrice":"699","miaoShaPrice":"299","sourceValue":"34_1_2860572_7_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0","tagCount":0,"tagText":"","tagType":0,"wareId":"2860572"},{"book":false,"colorRGB":"#F0D288","imageurl":"https://m.360buyimg.com/mobilecms/s220x220_jfs/t6313/194/94009909/207375/2239e4e1/5939263eN1101d79f.jpg!q70.jpg","jdPrice":"368","miaoShaPrice":"325","sourceValue":"34_1_2165630_8_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0","tagCount":0,"tagText":"","tagType":0,"wareId":"2165630"},{"book":false,"colorRGB":"#F0D288","imageurl":"https://m.360buyimg.com/mobilecms/s220x220_jfs/t13258/66/340195416/121309/8323d2e4/5a093b1fN4999e845.jpg!q70.jpg","jdPrice":"269","miaoShaPrice":"189","sourceValue":"34_1_4483022_9_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0","tagCount":0,"tagText":"","tagType":0,"wareId":"4483022"},{"book":false,"colorRGB":"#F0D288","imageurl":"https://m.360buyimg.com/mobilecms/s220x220_jfs/t11344/40/2291038651/128364/4055d5/5a138413N042aa015.jpg!q70.jpg","jdPrice":"7699","miaoShaPrice":"6999","sourceValue":"34_1_5205488_10_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0","tagCount":0,"tagText":"","tagType":0,"wareId":"5205488"},{"book":false,"colorRGB":"#F0D288","imageurl":"https://m.360buyimg.com/mobilecms/s220x220_jfs/t13873/325/1165068936/107023/47880ad3/5a1bae50N8c1adf5b.jpg!q70.jpg","jdPrice":"4099","miaoShaPrice":"3987","sourceValue":"34_1_4321078_11_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0","tagCount":0,"tagText":"","tagType":0,"wareId":"4321078"},{"book":false,"colorRGB":"#F0D288","imageurl":"https://m.360buyimg.com/mobilecms/s220x220_jfs/t4003/163/2274244845/214911/fdb0c086/58a6c76dNd64c66db.jpg!q70.jpg","jdPrice":"349","miaoShaPrice":"249","sourceValue":"34_1_2554180_12_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0","tagCount":0,"tagText":"","tagType":0,"wareId":"2554180"},{"book":false,"colorRGB":"#F0D288","imageurl":"https://m.360buyimg.com/mobilecms/s220x220_jfs/t7462/357/4544624704/52261/354df9af/5a071cfaN1eb7c99c.jpg!q70.jpg","jdPrice":"1599","miaoShaPrice":"1498","sourceValue":"34_1_4888919_13_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0","tagCount":0,"tagText":"","tagType":0,"wareId":"4888919"},{"book":false,"colorRGB":"#F0D288","imageurl":"https://m.360buyimg.com/mobilecms/s220x220_jfs/t14512/321/862999746/49333/fc06b035/5a3b2a65Nadc12192.jpg!q70.jpg","jdPrice":"59","miaoShaPrice":"29.9","sourceValue":"34_1_1260191_14_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0","tagCount":0,"tagText":"","tagType":0,"wareId":"1260191"},{"book":false,"colorRGB":"#F0D288","imageurl":"https://m.360buyimg.com/mobilecms/s220x220_jfs/t9517/313/1320866495/152004/811c9bcb/59dec201Ncebf7119.jpg!q70.jpg","jdPrice":"2098","miaoShaPrice":"1998","sourceValue":"34_1_4416620_15_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0","tagCount":0,"tagText":"","tagType":0,"wareId":"4416620"},{"book":false,"colorRGB":"#F0D288","imageurl":"https://m.360buyimg.com/mobilecms/s220x220_jfs/t16312/342/660806488/203854/ace7ef24/5a3b5847Na922f511.jpg!q70.jpg","jdPrice":"69.9","miaoShaPrice":"42.8","sourceValue":"34_1_1495690_16_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0","tagCount":0,"tagText":"","tagType":0,"wareId":"1495690"},{"book":false,"colorRGB":"#F0D288","imageurl":"https://m.360buyimg.com/mobilecms/s220x220_jfs/t12952/255/2375334689/150524/d01f30ea/5a3bb1daN4d4c2021.jpg!q70.jpg","jdPrice":"79.9","miaoShaPrice":"42.9","sourceValue":"34_1_4997104_17_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0","tagCount":0,"tagText":"","tagType":0,"wareId":"4997104"},{"book":false,"colorRGB":"#F0D288","imageurl":"https://m.360buyimg.com/mobilecms/s220x220_jfs/t10072/105/232259751/71671/b916b5c4/59c9b3cfN6f6f43c7.jpg!q70.jpg","jdPrice":"85.9","miaoShaPrice":"69.8","sourceValue":"34_1_302010_18_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0","tagCount":0,"tagText":"","tagType":0,"wareId":"302010"},{"book":false,"colorRGB":"#F0D288","imageurl":"https://m.360buyimg.com/mobilecms/s220x220_jfs/t4765/351/149356658/166954/c6a5a8a5/58db7a41Na8846114.jpg!q70.jpg","jdPrice":"289.9","miaoShaPrice":"235","sourceValue":"34_1_1823127_19_1#979c40445f6bb767553637f9d908f882b3fc4ff9-0#24692_0_0","tagCount":0,"tagText":"","tagType":0,"wareId":"1823127"}],searchland : {hotKeyword:null,searchBoxWord : {"realWord":"无线鼠标","rate":"05","showWord":"无线鼠标","code":"0","iconType":"0"}},appBanner:{isOpen : true,indexClientType : 0 ,banner:{"logo":"//st.360buyimg.com/m/images/index/top-jdlogo.png","icon":"立即打开","fontSizeOne":"13px","fontSizeTwo":"13px","colorOne":"#ffffff","colorTwo":"#999999","content1":"打开京东App购物","iconColor":"#FFFFFF","content2":"新人领188元红包","bg":"//m.360buyimg.com/img/jfs/t2977/335/1927273397/18081/64a032d5/5796df21N0c6edd4e.png"}},url:'//st.360buyimg.com/m',index_newseckill:'https://ms.m.jd.com/seckill/seckillList',ishttpinvoke:true, httpinvoketime:'1514170574298', reporttime:true,rotatetime:3,jsswitch : {"indexShowCartnum":false,"indexSlide":true,"openbannertime":1,"hisSearchExpiresTime":1,"indexOptimizeImg":true,"appShield":false,"closebannertime":0,"indexShowSearch":false,"recommendExpiresTime":3,"recommend":{"open":true,"useCached":false},"bannerCarouselTime":4,"autoappcall":true,"curtainsVersion":0,"globalabtest":1,"stopTouchTime":1500,"indexScreenlog":true,"indexBfloor":true,"indexbotRecommend":false,"autoSeckill":true,"indexShowActiveDraw":true,"wait4PayShow":true,"indexDNS":"https://m.jd.com","recommendShowTime":8000}};
+                                                    jsArgs['html5_2015'] = {head:false,footer:{toPcHomeUrl:null},appDown:null};
+            M.setRunMod(['html5_2015']);
+                                                                                M.setRunMod('index');
+                                                
+        //M.runner(jsArgs);
+    </script>
+    <script src="//st.360buyimg.com/m/js/2014/module/plugIn/downloadAppPlugIn_imk2.js?v=jd201712220019"  type="text/javascript"></script>
+    <script src="//st.360buyimg.com/m/js/2014/module/plugIn/iphonex66.min.js?v=jd201712220019"  type="text/javascript"></script>
+                                                    <script type="text/javascript" src="//st.360buyimg.com/m/js/2014/index661.js?v=jd201712220019"  charset="utf-8" ></script>
+                                                                    <script>
+        rTimeArr[4]["time"] = new Date();
+        window._PFM_TIMING[3]=new Date();
+    </script>
+                <script>
+            rTimeArr[6] ={sTime:new Date()};
+        </script>
+        <script src="//h5.m.jd.com/active/reporttime/reportTime.min.js" type="text/javascript"></script>
+                        <script src="//st.360buyimg.com/common/commonH_B/js/monitoringTool.min.js?v=jd201712220019" type="text/javascript"></script>
+                    <script>
+            rTimeArr[6]["time"] = new Date();
+        </script>
+        
+    <script type="text/javascript">
+
+
+
+    </script>
+                        <script type="text/javascript">
+            var account = "";
+                                account = "-";
+                            var jap = {
+                jav:"html5", 
+                account:account, 
+                siteId:'MO-J2011-1', 
+                provinceId:'',
+                cityId:'',
+                countryId:'', 
+                townId:'',
+                skuId:'', 
+                skuPrice:'', 
+                stockState:'' 
+            };
+        </script>
+        
+    <script>
+        rTimeArr[5] ={sTime:new Date()};
+    </script>
+    <script>
+        rTimeArr[5]["time"] = new Date();
+    </script>
+                <script type="text/javascript">
+            try{
+                var g=new MPing.inputs.PV();
+                var f=new MPing();
+                f.send(g);
+                                    MPing.inputs.Click.attachEvent();
+                            }catch(e){ }
+        </script>
+            <script>
+
+
+                        if((location.protocol === "https:" &&'serviceWorker' in navigator)) {
+                            try{
+                    window.addEventListener("load",function(){
+                        navigator.serviceWorker.register('/sw_blank.js?v='+'201704021533')
+                                .then(function(reg){
+                                    console.log('sw_blank registered!')
+                                }).catch(function(err){
+                            console.log('sw_blank registered error!')
+                        });
+                    });
+                }catch(e){
+                }
+            }
+            
+    </script>
+    <span style="display:none"><a href='http://shop.m.jd.com/?shopId=75728'>东鹏瓷砖</a><a href='http://shop.m.jd.com/?shopId=1000013972'>丹尼尔惠灵顿</a><a href='http://shop.m.jd.com/?shopId=17529'>亚瑟士</a><a href='https://so.m.jd.com/pinpai/9172.html'>娇兰(Guerlain)</a><a href='https://so.m.jd.com/pinpai/13712.html'>欧米茄(OMEGA)</a><a href='https://so.m.jd.com/pinpai/16367.html'>斯沃琪(Swatch)</a><a href='https://so.m.jd.com/pinpai/7510.html'>古驰(GUCCI)</a><a href='https://so.m.jd.com/pinpai/54554.html'>AJ乔丹</a><a href='https://so.m.jd.com/pinpai/10562.html'>克洛伊(CHLOE)</a><a href='https://so.m.jd.com/pinpai/23558.html'>mcm</a><a href='https://so.m.jd.com/pinpai/15015.html'>赛琳(CELINE)</a><a href='https://so.m.jd.com/pinpai/14058.html'>prada</a><a href='https://so.m.jd.com/pinpai/4359.html'>宝格丽</a></span>
+</html>

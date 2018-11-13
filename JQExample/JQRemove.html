@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <title>jquery移除 remove detach</title>
+    <meta charset="utf-8" />
+    <style type="text/css">
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        #box {
+            width: 100px;
+            height: 100px;
+            border: 1px solid red;
+        }
+
+        p {
+            width: 50px;
+            height: 50px;
+            background-color: green;
+        }
+    </style>
+</head>
+<body>
+    <div id="box"></div>
+    <p>
+        pppp
+        <span>span</span>
+    </p>
+    <script src="../CommonJs/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript">
+        //clone() 默认会拷贝子元素,不会拷贝事件
+
+        var p = $("p");
+        p.click(function () {
+            alert(1);
+        });
+        //var rp = p.remove();
+        //var rp = p.detach();
+        //$(document).click(function () {
+        //    $("#box").after(rp);
+        //});
+        $("#box").prepend(p);
+    </script>
+</body>
+</html>
