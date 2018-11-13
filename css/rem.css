@@ -1,0 +1,46 @@
+.btn-search {
+  display: flex;
+  height: 0.625rem;
+  padding: 0px 10px;
+  line-height: 0.625rem;
+  background-color: rgba(242, 101, 192, 0.5);
+}
+.btn-search > form {
+  flex: 1;
+}
+.btn-search > form > .search-text {
+  width: 100%;
+  height: 0.46875rem;
+  border-radius: 50px;
+  text-indent: 0.78125rem;
+}
+.btn-search > .login {
+  flex: none;
+  margin-left: 10px;
+  color: #fff;
+}
+.swiper-container {
+  width: 10rem;
+  height: 4.21875rem;
+}
+.nav-wrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+.nav-wrap > li {
+  width: 20%;
+  text-align: center;
+}
+.nav-wrap > li > a {
+  display: block;
+  width: 0.46875rem;
+  height: 0.46875rem;
+  margin: 0.15625rem auto 0px;
+}
+.nav-wrap > li > a > img {
+  width: 100%;
+  height: 100%;
+}
+.nav-wrap > li > span {
+  font-size: 12px;
+}
